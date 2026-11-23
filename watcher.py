@@ -157,11 +157,17 @@ def linkedin(_c=None):
     from bs4 import BeautifulSoup
     cfg = CFG["linkedin"]
     out, ids = [], set()
-    for kw in cfg["keywords"]:
+    # une seule recherche qui regroupe tous les mots-clés (OR) -> 1 à 2 requêtes par passage
+    query = " OR ".join(f'"{k}"' for k in cfg["keywords"])
+    for kw in [query]:
         for p in range(cfg.get("pages", 2)):
-            r = S.get("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search",
-                      params={"keywords": kw, "location": "France", "f_TPR": "r3600",
-                              "sortBy": "DD", "start": p * 25}, timeout=20)
+            url = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+            params = {"keywords": kw, "location": "France", "f_TPR": "r7200",  # fenêtre 2h
+                      "sortBy": "DD", "start": p * 25}
+            r = S.get(url, params=params, timeout=20)
+            if r.status_code == 429:  # nouvel essai unique après 45 s
+                time.sleep(45)
+                r = S.get(url, params=params, timeout=20)
             if r.status_code == 429:
                 raise RuntimeError("LinkedIn rate-limit (429)")
             r.raise_for_status()
@@ -268,6 +274,12 @@ def main():
 
     results = {}
     api_cos = [c for c in CFG["companies"] if c["ats"] not in ("page", "workday")]
+    # LinkedIn : au plus une fois toutes les 55 min (les autres sources tournent toutes les 15 min)
+    li_wait = CFG["linkedin"].get("every_minutes", 60) * 60 - 300
+    if time.time() - state.get("last_linkedin", 0) < li_wait:
+        api_cos = [c for c in api_cos if c["ats"] != "linkedin"]
+    else:
+        state["last_linkedin"] = time.time()
     page_cos = [c for c in CFG["companies"] if c["ats"] in ("page", "workday")]
 
     def safe(c):
@@ -299,6 +311,10 @@ def main():
     rows = []
     for c in CFG["companies"]:
         n = c["name"]
+        if n not in results:  # source sautée à ce passage (LinkedIn hors créneau)
+            if report:
+                print(f"{n:20} SKIP  (prochain passage LinkedIn dans moins d'1h)")
+            continue
         jobs, err = results[n]
         prev_status = state["status"].get(n)
         if err:

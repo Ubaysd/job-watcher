@@ -9,7 +9,8 @@ filters:
 # Grand filet : recherche publique LinkedIn (offres < 1h, France), filtrée sur big_companies.txt
 linkedin:
   keywords: ["product owner", "product manager", "chef de projet", "program manager", "chef de produit", "PMO"]
-  pages: 1   # 25 offres les plus récentes par mot-clé (au-delà, LinkedIn bloque en 429)
+  pages: 2           # 50 offres les plus récentes, recherche unique regroupant les mots-clés
+  every_minutes: 60  # LinkedIn interrogé au plus une fois par heure (limite les 429)
 
 companies:
   - {name: LinkedIn,      ats: linkedin}
