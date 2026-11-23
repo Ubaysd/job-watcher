@@ -8,6 +8,7 @@
    "4492638183",
    "4492646455",
    "4492646456",
+   "4492650753",
    "4493692751",
    "4493695753",
    "4493917327",
@@ -648,6 +649,7 @@
    "8948002002",
    "8948050002",
    "8948559002",
+   "8949468002",
    "8949667002",
    "8950027002",
    "8950794002",
@@ -784,6 +786,7 @@
    "351102",
    "351103",
    "351105",
+   "351106",
    "351107",
    "351108",
    "351125",
@@ -792,10 +795,13 @@
    "351130",
    "351132",
    "351152",
+   "351158",
    "351160",
    "351163",
    "351196",
    "351201",
+   "351223",
+   "351242",
    "351245",
    "351247",
    "351249",
@@ -803,7 +809,8 @@
    "351252",
    "351254",
    "351255",
-   "351256"
+   "351256",
+   "351268"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -2354,6 +2361,7 @@
    "8404115",
    "8404131",
    "8404144",
+   "8404667",
    "8405596",
    "8406140",
    "8406660",
@@ -2965,6 +2973,7 @@
    "/job/Ireland---Dublin/Software-Engineer---AI-Agent-Platform_JR368957",
    "/job/Italy---Milan/FDE-Voice---Italy_JR366178",
    "/job/Japan---Tokyo/Qualified-Success-Architect_JR368158",
+   "/job/Mexico---Mexico-City/Engagement-Delivery-Manager_JR366670",
    "/job/Mexico---Mexico-City/Senior-Instructor-Salesforce----Tableau_JR365621",
    "/job/Mexico---Mexico-City/Senior-Technical-Consultant_JR366662",
    "/job/Mexico---Mexico-City/Senior-Technical-Enablement-Specialist---MuleSoft---Tableau_JR365265-1",
@@ -3186,6 +3195,7 @@
   "datadog senior product manager application performance monitoring",
   "doctolib lead product manager patient data collection x f m",
   "doctolib technical product manager production data storage x f m",
+  "free work delivery manager chef de projet senior h f",
   "free work product manager h f orleans",
   "gitlab ai transformation owner cro",
   "gitlab manager sox pmo business process",
@@ -3242,5 +3252,5 @@
   "swile senior product manager",
   "ubisoft campaign program manager f h nb"
  ],
- "last_linkedin": 1795473126.099701
+ "last_linkedin": 1795476725.6924188
 }
