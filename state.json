@@ -776,7 +776,8 @@
    "351132",
    "351152",
    "351160",
-   "351163"
+   "351163",
+   "351196"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -2947,6 +2948,7 @@
    "/job/United-Arab-Emirates---Dubai/Customer-Success-Manager_JR361672",
    "/job/United-Arab-Emirates---Dubai/FDE--Specialist-Builder--SWAT_JR368499",
    "/job/United-Arab-Emirates---Dubai/Forward-Deployed-Engineer_JR348987",
+   "/job/United-Kingdom---London/Customer-Success-Manager_JR367495",
    "/job/United-Kingdom---London/Field-marketing-senior-lead_JR363519",
    "/job/United-Kingdom---London/Principal-Success-Manager_JR368342",
    "/job/United-Kingdom---London/Technical-Architect-8_JR359492",
@@ -3106,7 +3108,7 @@
   "Contentsquare": "ok",
   "Algolia": "ok",
   "Criteo": "error",
-  "BlaBlaCar": "error",
+  "BlaBlaCar": "ok",
   "ManoMano": "error",
   "Swile": "ok",
   "Spendesk": "error",
