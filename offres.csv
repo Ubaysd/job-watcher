@@ -1,16 +1,7 @@
 detecte_utc,entreprise,poste,lieu,lien_postuler,source
 2026-11-23 15:15,Assurances Crédit Mutuel,Cheffe/Chef de produit (F/H) - Assurances collectives,"Strasbourg, Grand Est, France",https://www.linkedin.com/jobs/view/4448765026,LinkedIn
 2026-11-23 15:15,Datadog,Senior Product Manager - Application Performance Monitoring,"Paris, France",https://careers.datadoghq.com/detail/8028422/?gh_jid=8028422,Datadog
-2026-11-23 15:15,GitLab,"AI Transformation Owner, CRO","Remote, United States",https://job-boards.greenhouse.io/gitlab/jobs/8638232002,GitLab
-2026-11-23 15:15,GitLab,"Manager, SOX PMO - Business Process ","Remote, Canada; Remote, India; Remote, United States",https://job-boards.greenhouse.io/gitlab/jobs/8928325002,GitLab
-2026-11-23 15:15,GitLab,Principal Technical Program Manager,"Remote, Canada; Remote, United States",https://job-boards.greenhouse.io/gitlab/jobs/8693068002,GitLab
-2026-11-23 15:15,GitLab,"Professional Services, Program Manager","Remote, Canada",https://job-boards.greenhouse.io/gitlab/jobs/8957093002,GitLab
-2026-11-23 15:15,GitLab,"Senior Product Manager, Salesforce CRM ","Remote, United States",https://job-boards.greenhouse.io/gitlab/jobs/8855883002,GitLab
-2026-11-23 15:15,GitLab,"Senior Product Manager, Switchboard","Remote, United States",https://job-boards.greenhouse.io/gitlab/jobs/8894806002,GitLab
-2026-11-23 15:15,GitLab,Senior Professional Services Project Manager (EMEA),"Remote, United Kingdom",https://job-boards.greenhouse.io/gitlab/jobs/8622433002,GitLab
 2026-11-23 15:15,GitLab,"Senior Professional Services Project Manager, Paris","Remote, France",https://job-boards.greenhouse.io/gitlab/jobs/8936091002,GitLab
-2026-11-23 15:15,GitLab,"Staff Product Manager, Agentic Planning","Remote, United States",https://job-boards.greenhouse.io/gitlab/jobs/8909618002,GitLab
-2026-11-23 15:15,GitLab,"Staff Product Manager, Tenant Scale","Remote, Canada; Remote, United States",https://job-boards.greenhouse.io/gitlab/jobs/8919537002,GitLab
 2026-11-23 15:15,Qonto,Staff Product Manager - Loans,"Paris, France",https://jobs.ashbyhq.com/qonto/661f1548-8720-483d-b606-5bf58409448f,Qonto
 2026-11-23 15:15,Qonto,Finance Transformation Project Manager,"Paris, France",https://jobs.ashbyhq.com/qonto/167a495f-3d71-4128-8fc6-214fa16dd7cb,Qonto
 2026-11-23 15:15,Qonto,Strategic Project Manager Italy,"Paris, France",https://jobs.ashbyhq.com/qonto/06b9d095-5a80-4e6a-8099-617f56eac4af,Qonto
@@ -23,30 +14,8 @@ detecte_utc,entreprise,poste,lieu,lien_postuler,source
 2026-11-23 15:15,Pennylane,Senior Product Manager - Autopilot Growth ,Paris,https://jobs.ashbyhq.com/pennylane/70c27e0e-8521-4f5e-807a-53fd367fab3b,Pennylane
 2026-11-23 15:15,Ledger,Senior Product Manager - Earn,"Paris, France",https://jobs.ashbyhq.com/ledger/3ebd8e20-cf7c-4919-a4bc-2705b446687c,Ledger
 2026-11-23 15:15,Ledger,Staff Product Manager - Ledger Wallet (Contractor),"Paris, France",https://jobs.ashbyhq.com/ledger/b80bdad1-9a5e-454b-aa0c-3cacbc01c87e,Ledger
-2026-11-23 15:15,Stripe,"AI Transformation Lead, Marketing","San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",https://stripe.com/jobs/search?gh_jid=8287910,Stripe
-2026-11-23 15:15,Stripe,Marketing Operations Program Manager,US Remote,https://stripe.com/jobs/search?gh_jid=8283786,Stripe
-2026-11-23 15:15,Stripe,Marketing Technology Program Manager,US Remote,https://stripe.com/jobs/search?gh_jid=8257939,Stripe
-2026-11-23 15:15,Stripe,"Product Manager, Finance Operations",US-Remote,https://stripe.com/jobs/search?gh_jid=8393939,Stripe
-2026-11-23 15:15,Stripe,"Product Manager, Link - Consumer","SF, SEA, NY, Remote-US",https://stripe.com/jobs/search?gh_jid=7392697,Stripe
-2026-11-23 15:15,Stripe,"Product Manager, Radar","San Francisco, Seattle, New York, US - Remote",https://stripe.com/jobs/search?gh_jid=8301646,Stripe
-2026-11-23 15:15,Stripe,"Product Manager, Radar - Fraud and Abuse Prevention","San Francisco, Seattle, New York, US-Remote",https://stripe.com/jobs/search?gh_jid=8306158,Stripe
-2026-11-23 15:15,Stripe,"Program Manager, Card Network Office (Card Networks)","US-SF, US-NYC, US-Seattle, US-Remote",https://stripe.com/jobs/search?gh_jid=8081754,Stripe
 2026-11-23 15:15,Stripe,"Program Manager, Commercial Solutions",Remote/Hybrid,https://stripe.com/jobs/search?gh_jid=8224617,Stripe
-2026-11-23 15:15,Stripe,"Program Manager, Commercial Solutions (Product Integration)",US-Remote,https://stripe.com/jobs/search?gh_jid=8279867,Stripe
-2026-11-23 15:15,Stripe,"Program Manager, Competitive Programs","SF, NYC, Seattle, Remote",https://stripe.com/jobs/search?gh_jid=8175673,Stripe
-2026-11-23 15:15,Stripe,"Program Manager, Deal Operations",US-Remote,https://stripe.com/jobs/search?gh_jid=8209633,Stripe
-2026-11-23 15:15,Stripe,"Program Manager, Risk Ops Enablement",US-Remote,https://stripe.com/jobs/search?gh_jid=7214197,Stripe
-2026-11-23 15:15,Stripe,"Security GRC Program Manager, Third Party Risk",US - Hybrid,https://stripe.com/jobs/search?gh_jid=8241288,Stripe
-2026-11-23 15:15,Stripe,"Staff Product Manager, Billing ","SF, NY, SEA, Remote-US",https://stripe.com/jobs/search?gh_jid=7983725,Stripe
-2026-11-23 15:15,Stripe,"Staff Product Manager, Enterprise","San Francisco, Seattle, New York, Chicago, Atlanta, Remote",https://stripe.com/jobs/search?gh_jid=7812856,Stripe
-2026-11-23 15:15,Stripe,"Staff Product Manager, Foundation Pillar ","SF, SEA, NY, Remote-US ",https://stripe.com/jobs/search?gh_jid=8381041,Stripe
-2026-11-23 15:15,Stripe,"Staff Product Manager, ML Foundations and GenAI","Seattle, San Francisco, New York, US - Remote",https://stripe.com/jobs/search?gh_jid=7517535,Stripe
 2026-11-23 15:15,Stripe,"Staff Product Manager, Mobile","New York City, Toronto, Chicago, EMEA, or Remote",https://stripe.com/jobs/search?gh_jid=8140438,Stripe
-2026-11-23 15:15,Stripe,"Staff Product Manager, Payments Intelligence","NYC, SF, Seattle, US - Remote",https://stripe.com/jobs/search?gh_jid=8209996,Stripe
-2026-11-23 15:15,Stripe,"Staff Product Manager, Sail Core","New York, US - Remote (East Coast), Toronto",https://stripe.com/jobs/search?gh_jid=7913698,Stripe
-2026-11-23 15:15,Stripe,"Technical Program Manager, Extensibility ",Remote US ,https://stripe.com/jobs/search?gh_jid=8114397,Stripe
-2026-11-23 15:15,Stripe,"Technical Program Manager, Extensibility Platform",US Remote ,https://stripe.com/jobs/search?gh_jid=8282859,Stripe
-2026-11-23 15:15,Stripe,"Technical Program Manager, Money-as-a-Service",Remote in the US,https://stripe.com/jobs/search?gh_jid=8042055,Stripe
 2026-11-23 15:15,Ubisoft,Campaign Program Manager (F/H/NB),Paris fr,https://jobs.smartrecruiters.com/Ubisoft2/744000158794440,Ubisoft
 2026-11-23 15:15,Airbus,Network Architect / Product Manager Network (m/f/d),3 Locations,https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Network-Architect---Product-Manager-Network--m-f-d-_JR10451758-1,Airbus
 2026-11-23 15:15,Mastercard,"Senior Managing Consultant, Advisors & Consulting Services, Strategy & Transformation - Credit Card Modeling SME",4 Locations,https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Senior-Managing-Consultant--Advisors---Consulting-Services--Strategy---Transformation---P-L-Optimization-SME_R-279185,Mastercard
