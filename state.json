@@ -2569,11 +2569,13 @@
    "/job/Mnchen-Area/Network-Architect---Product-Manager-Network--m-f-d-_JR10451758-1",
    "/job/Mobile-Area-AL/Head-of-Conformity---Certifying-Staff--A320-_JR10450486",
    "/job/Mobile-Area-AL/Mechanical-Quality-Inspector-A220--2nd-Shift-_JR10454478",
+   "/job/Montreal-Area/Cheffe-Qualit-Approvisionnement---Aerostructures--HO-Supply-Chain-Quality----Aerostructures_JR10455413-1",
    "/job/Montreal-Area/Conseiller-principal-en-architecture-systme---Lead--Advisor-System-Architecture_JR10459422",
    "/job/Montreal-Area/Gestionnaire-de-projet--Process-Outils-Mthodes---Project-Manager--Process-Tools-Manufacturing-Eng_JR10458763",
    "/job/Montreal-Area/Inspecteur-lectrique_JR10440214",
    "/job/Montreal-Area/Manager-Qualit-Oprations_JR10453479",
    "/job/Montreal-Area/Partenaire-d-affaires-Gestion-de-projet---Systmes---Project-Management-Business-Partner---Systems_JR10444933-1",
+   "/job/Montreal-Area/Planificateur-Principal-des-Oprations---Master-Production-Scheduler_JR10459837",
    "/job/Montreal-Area/Spcialiste-en-Conception-Systmes-des-bancs-d-essai---Test-Bench-System-Design-Specialist_JR10444459",
    "/job/Montreal-Area/Superviseur-aux-oprations--Quart-de-soir----Production-Supervisor---Evening-Shift-_JR10457989-1",
    "/job/Montreal-Area/Superviseur-aux-oprations--Quart-de-soir----Production-Supervisor---Evening-Shift-_JR10457992",
@@ -2619,7 +2621,8 @@
    "/job/Toulouse-Area/Support-Logistique---Customer-Line-WB-H-F_JR10456504",
    "/job/Toulouse-Area/Technical-Advisor-Powerplant-Mechanical-Integrity---Lifing-M-F_JR10435978",
    "/job/Toulouse-Area/Work-Package-Manager-for-Telecom-Ground-Systems---IRIS---M-F-_JR10447509",
-   "/job/Varel-Area/Werkzeugvoreinsteller--m-w-d---KOVS31_JR10434202-1"
+   "/job/Varel-Area/Werkzeugvoreinsteller--m-w-d---KOVS31_JR10434202-1",
+   "/job/Waterloo/Product-Support-Representative---AMER---Mission--INTERN_JR10453087"
   ],
   "Sanofi": [
    "/job/Ambars/stage-6-mois-analyse-donnes-validation_R2872084",
@@ -2870,6 +2873,7 @@
    "/job/California---San-Francisco/Senior-Director--Head-of-Corporate-Strategic-Investments_JR368695",
    "/job/California---San-Francisco/Software-Engineer-Infrastructure-and-Distributed-Systems_JR368687",
    "/job/California---San-Francisco/Software-Engineering-PMTS_JR368923",
+   "/job/California---San-Francisco/Staff-Backend-Product-Engineer--SlackBot-_JR359771-1",
    "/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1",
    "/job/California---San-Francisco/Summer-2027-Intern---Product-Marketing--Missionforce_JR369152-1",
    "/job/California---San-Francisco/Technical-Program-Management-Senior-Manager_JR363043",
@@ -3191,5 +3195,5 @@
   "swile senior product manager",
   "ubisoft campaign program manager f h nb"
  ],
- "last_linkedin": 1795458725.475569
+ "last_linkedin": 1795462325.7617593
 }
