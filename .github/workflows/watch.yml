@@ -1,18 +1,22 @@
 name: job-watch
 
+# Fonctionnement : un job tourne en boucle ~5h30 (un passage toutes les 15 min),
+# puis relance lui-même le workflow. Le cron ne sert que de secours pour redémarrer la boucle.
 on:
   schedule:
-    - cron: "*/15 * * * *"   # toutes les 15 min (GitHub peut décaler de quelques minutes)
+    - cron: "7 */2 * * *"   # secours : relance la boucle si elle s'est arrêtée
   workflow_dispatch:
     inputs:
       mode:
-        description: "vide = run normal, --report = état des sources, --test = test Telegram"
+        description: "vide = boucle normale, --report = état des sources, --test = test Telegram, --backfill, --clean"
         required: false
         default: ""
 
 permissions:
   contents: write
+  actions: write
 
+# une seule boucle à la fois ; un déclenchement pendant une boucle attend son tour
 concurrency:
   group: job-watch
   cancel-in-progress: false
@@ -20,7 +24,7 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -39,11 +43,29 @@ jobs:
 
       - run: python -m playwright install --with-deps chromium
 
-      - name: Run watcher
+      - name: Identité git
+        run: |
+          git config user.name "job-watch-bot"
+          git config user.email "job-watch-bot@users.noreply.github.com"
+
+      - name: Boucle de veille (toutes les 15 min)
+        id: loop
+        if: ${{ github.event.inputs.mode == '' }}
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python watcher.py ${{ github.event.inputs.mode }}
+        run: bash loop.sh
+
+      - name: Passage unique (mode ${{ github.event.inputs.mode }})
+        if: ${{ github.event.inputs.mode != '' }}
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python watcher.py ${{ github.event.inputs.mode }}
+          git add state.json
+          [ -f offres.csv ] && git add offres.csv
+          git diff --cached --quiet || (git commit -m "state update" && git pull --rebase origin main && git push origin HEAD:main)
 
       - name: Captures des pages en échec (diagnostic)
         if: always()
@@ -54,10 +76,9 @@ jobs:
           if-no-files-found: ignore
           retention-days: 3
 
-      - name: Sauvegarde de l'état
-        run: |
-          git config user.name "job-watch-bot"
-          git config user.email "job-watch-bot@users.noreply.github.com"
-          git add state.json
-          [ -f offres.csv ] && git add offres.csv
-          git diff --cached --quiet || (git commit -m "state update" && git push)
+      - name: Relance de la boucle suivante
+        # uniquement si la boucle a tourné jusqu'au bout (évite des relances en rafale si l'install échoue)
+        if: ${{ !cancelled() && steps.loop.outcome == 'success' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run watch.yml --ref main
