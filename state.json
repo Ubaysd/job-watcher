@@ -783,7 +783,8 @@
    "351152",
    "351160",
    "351163",
-   "351196"
+   "351196",
+   "351201"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -2579,6 +2580,7 @@
    "/job/Mnchen-Area/Network-Architect---Product-Manager-Network--m-f-d-_JR10451758-1",
    "/job/Mobile-Area-AL/Head-of-Conformity---Certifying-Staff--A320-_JR10450486",
    "/job/Mobile-Area-AL/Mechanical-Quality-Inspector-A220--2nd-Shift-_JR10454478",
+   "/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
    "/job/Montreal-Area/Cheffe-Qualit-Approvisionnement---Aerostructures--HO-Supply-Chain-Quality----Aerostructures_JR10455413-1",
    "/job/Montreal-Area/Conseiller-principal-en-architecture-systme---Lead--Advisor-System-Architecture_JR10459422",
    "/job/Montreal-Area/Gestionnaire-de-projet--Process-Outils-Mthodes---Project-Manager--Process-Tools-Manufacturing-Eng_JR10458763",
@@ -3116,7 +3118,7 @@
   "Doctolib": "ok",
   "Back Market": "ok",
   "Dataiku": "ok",
-  "Contentsquare": "error",
+  "Contentsquare": "ok",
   "Algolia": "ok",
   "Criteo": "error",
   "BlaBlaCar": "ok",
