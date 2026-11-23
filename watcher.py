@@ -253,6 +253,7 @@ def main():
         telegram("✅ Job watcher : Telegram OK")
         return
     report = "--report" in args
+    backfill = "--backfill" in args  # écrit toutes les offres pertinentes en ligne dans offres.csv, sans Telegram
     state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
     state.setdefault("seen", {}); state.setdefault("ats", {}); state.setdefault("status", {})
 
@@ -336,12 +337,12 @@ def main():
         keep = [j for j in jobs if relevant(j)]
         seen = set(state["seen"].get(n, []))
         baseline = n not in state["seen"]
-        new = [j for j in keep if j["id"] not in seen]
+        new = keep if backfill else [j for j in keep if j["id"] not in seen]
         state["seen"][n] = sorted(seen | {j["id"] for j in jobs})[-3000:]
         if report:
             ats = state["ats"].get(n, [c["ats"]])[0]
             print(f"{n:20} OK  ats={ats:15} offres={len(jobs):4} pertinentes={len(keep)}")
-        if new and not baseline and not report:
+        if new and (backfill or not baseline) and not report:
             for j in new:
                 co = j.get("company") or n
                 key = _norm(co.split()[0] + " " + j["title"])  # anti-doublon source directe / LinkedIn
@@ -362,7 +363,7 @@ def main():
             if new_file:
                 w.writerow(["detecte_utc", "entreprise", "poste", "lieu", "lien_postuler", "source"])
             w.writerows(rows)
-    if not report:
+    if not report and not backfill:
         if alerts:
             telegram("\n\n".join(alerts))
         if errors:
