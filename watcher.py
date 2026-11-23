@@ -184,8 +184,8 @@ def linkedin(_c=None):
                             "location": loc.get_text(strip=True) if loc else "France"})
             if len(cards) < 25:
                 break
-            time.sleep(2)
-        time.sleep(2)
+            time.sleep(4)
+        time.sleep(4)
     return out
 
 
@@ -223,7 +223,9 @@ def relevant(j):
     t = j["title"]
     if not INC.search(t) or EXC.search(t):
         return False
-    return not j["location"] or bool(LOC.search(j["location"]))
+    loc = j["location"]
+    # "2 Locations" (Workday multi-sites) : on garde, l'offre peut inclure Paris
+    return not loc or bool(LOC.search(loc)) or bool(re.search(r"\d+\s+(locations|sites|lieux)", loc, re.I))
 
 
 def telegram(text):

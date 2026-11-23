@@ -9,7 +9,7 @@ filters:
 # Grand filet : recherche publique LinkedIn (offres < 1h, France), filtrée sur big_companies.txt
 linkedin:
   keywords: ["product owner", "product manager", "chef de projet", "program manager", "chef de produit", "PMO"]
-  pages: 2   # 25 offres par page, triées par date
+  pages: 1   # 25 offres les plus récentes par mot-clé (au-delà, LinkedIn bloque en 429)
 
 companies:
   - {name: LinkedIn,      ats: linkedin}
@@ -38,7 +38,6 @@ companies:
 
   # Workday : API appelée depuis le navigateur (sinon 429)
   - {name: Airbus,     ats: workday, host: ag.wd3.myworkdayjobs.com, tenant: ag, site: Airbus}
-  - {name: Thales,     ats: workday, host: gtsgbu.wd3.myworkdayjobs.com, tenant: gtsgbu, site: Careers}
   - {name: Sanofi,     ats: workday, host: sanofi.wd3.myworkdayjobs.com, tenant: sanofi, site: SanofiCareers}
   - {name: Mastercard, ats: workday, host: mastercard.wd1.myworkdayjobs.com, tenant: mastercard, site: CorporateCareers}
   - {name: Salesforce, ats: workday, host: salesforce.wd12.myworkdayjobs.com, tenant: salesforce, site: External_Career_Site}
