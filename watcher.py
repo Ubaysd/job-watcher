@@ -229,9 +229,18 @@ def relevant(j):
     t = j["title"]
     if not INC.search(t) or EXC.search(t):
         return False
-    loc = j["location"]
+    loc = j["location"] or ""
+    if not loc.strip() or LOC.search(loc):
+        return True
     # "2 Locations" (Workday multi-sites) : on garde, l'offre peut inclure Paris
-    return not loc or bool(LOC.search(loc)) or bool(re.search(r"\d+\s+(locations|sites|lieux)", loc, re.I))
+    if re.search(r"\d+\s+(locations|sites|lieux)", loc, re.I):
+        return True
+    # remote Europe / EMEA : France incluse
+    if re.search(r"\b(europe|emea)\b", loc, re.I):
+        return True
+    # "Remote" / "Hybrid" sans aucun pays : gardé ; "Remote, Canada" : écarté
+    rest = re.sub(r"remote|hybrid|t[ée]l[ée]travail|anywhere|[-,;/()|\s]+", " ", loc, flags=re.I).strip()
+    return not rest
 
 
 def telegram(text):
@@ -251,6 +260,15 @@ def main():
     args = set(sys.argv[1:])
     if "--test" in args:
         telegram("✅ Job watcher : Telegram OK")
+        return
+    if "--clean" in args:  # nettoyage unique : retire de offres.csv les lignes hors filtres
+        import csv
+        out = ROOT / "offres.csv"
+        rows_ = list(csv.reader(out.open(encoding="utf-8")))
+        kept = [rows_[0]] + [r for r in rows_[1:] if relevant({"title": r[2], "location": r[3]})]
+        with out.open("w", newline="", encoding="utf-8") as fh:
+            csv.writer(fh).writerows(kept)
+        print(f"offres.csv : {len(rows_) - 1} -> {len(kept) - 1} offres")
         return
     report = "--report" in args
     backfill = "--backfill" in args  # écrit toutes les offres pertinentes en ligne dans offres.csv, sans Telegram

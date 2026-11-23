@@ -2,7 +2,8 @@
 filters:
   title_include: "product owner|product manager|chef de produit|program manager|programme manager|project manager|chef de projet|PMO|TPM|delivery manager|head of product|transformation|AI use case|deployment strategist"
   title_exclude: "\\bstage\\b|\\bintern\\b|internship|stagiaire|alternance|alternant|apprenti|apprentice|working student|graduate|\\bVIE\\b|V\\.I\\.E"
-  location_include: "france|paris|ile-de-france|île-de-france|la défense|la defense|saint-ouen|nanterre|courbevoie|puteaux|issy|boulogne|levallois|montrouge|charenton|remote|hybrid"
+  location_include: "france|paris|ile-de-france|île-de-france|la défense|la defense|saint-ouen|nanterre|courbevoie|puteaux|issy|boulogne|levallois|montrouge|charenton"
+  # "Remote"/"Hybrid" seul, ou remote France/Europe/EMEA : gardé ; remote d'autres pays seulement : écarté
 
 # ats: auto -> le script teste Lever / Greenhouse / Ashby / SmartRecruiters avec les slugs candidats
 # et mémorise celui qui répond (state.json).
