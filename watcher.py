@@ -317,9 +317,7 @@ def main():
                 print(f"{n:20} ERREUR  {err}")
             continue
         state["status"][n] = "ok"
-        # pages : déjà filtrées par l'URL de recherche, on applique seulement l'exclusion
-        keep = [j for j in jobs if not EXC.search(j["title"])] if c["ats"] == "page" \
-            else [j for j in jobs if relevant(j)]
+        keep = [j for j in jobs if relevant(j)]
         seen = set(state["seen"].get(n, []))
         baseline = n not in state["seen"]
         new = [j for j in keep if j["id"] not in seen]

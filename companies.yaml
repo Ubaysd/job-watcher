@@ -43,18 +43,7 @@ companies:
   - {name: Salesforce, ats: workday, host: salesforce.wd12.myworkdayjobs.com, tenant: salesforce, site: External_Career_Site}
 
   # Grands groupes sans API publique -> rendu navigateur + diff des liens d'offres
-  - name: AXA
-    ats: page
-    url: "https://careers.axa.com/global/en/search-results?keywords=product%20owner"
-    link_regex: "/job/"
-  - name: Allianz (dont Allianz Partners, Trade, Direct)
-    ats: page
-    url: "https://careers.allianz.com/search/?q=product&locationsearch=France"
-    link_regex: "/job/"
-  - name: BNP Paribas
-    ats: page
-    url: "https://group.bnpparibas/emploi-carriere/toutes-offres-emploi?q=product%20owner"
-    link_regex: "/offre-emploi/"
+  # (AXA, Allianz, BNP : site bloqué ou recherche introuvable -> couverts via LinkedIn)
   - name: Societe Generale
     ats: page
     url: "https://careers.societegenerale.com/rechercher?query=product%20owner"
@@ -62,4 +51,4 @@ companies:
   - name: Amundi
     ats: page
     url: "https://jobs.amundi.com/job/list-of-jobs.aspx"
-    link_regex: "/job/emploi-"
+    link_regex: "_\\d+\\.aspx"
