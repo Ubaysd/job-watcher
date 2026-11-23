@@ -45,6 +45,15 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python watcher.py ${{ github.event.inputs.mode }}
 
+      - name: Captures des pages en échec (diagnostic)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-screenshots
+          path: debug/
+          if-no-files-found: ignore
+          retention-days: 3
+
       - name: Sauvegarde de l'état
         run: |
           git config user.name "job-watch-bot"

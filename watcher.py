@@ -64,43 +64,83 @@ def smartrecruiters(slug):
             return out
 
 
-def workday(c):
-    base = f"https://{c['host']}/wday/cxs/{c['tenant']}/{c['site']}/jobs"
-    out, offset = [], 0
-    while offset < 200:  # tri par date côté Workday : les 200 plus récentes suffisent
-        r = S.post(base, json={"appliedFacets": {}, "limit": 20, "offset": offset,
-                               "searchText": "product"}, timeout=20)
-        r.raise_for_status()
-        posts = r.json().get("jobPostings", [])
-        for j in posts:
-            path = j.get("externalPath", "")
-            out.append({"id": path, "title": j.get("title", ""),
-                        "url": f"https://{c['host']}/{c['site']}{path}",
-                        "location": j.get("locationsText", "")})
-        if len(posts) < 20:
-            break
-        offset += 20
-    return out
+BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
+COOKIE_BTNS = ["#onetrust-accept-btn-handler", "#didomi-notice-agree-button",
+               "button:has-text('Tout accepter')", "button:has-text('Accepter')",
+               "button:has-text('Accept all')", "button:has-text('Accept')"]
+DEBUG = ROOT / "debug"
 
 
-def page(c, browser):
-    p = browser.new_page()
+def _debug_shot(p, name):
     try:
-        p.goto(c["url"], wait_until="networkidle", timeout=45000)
+        DEBUG.mkdir(exist_ok=True)
+        p.screenshot(path=str(DEBUG / (re.sub(r"\W+", "_", name) + ".png")), full_page=True)
+    except Exception:
+        pass
+
+
+def workday(c, ctx):
+    """Ouvre le site Workday comme un visiteur (cookies), puis appelle son API depuis le navigateur."""
+    p = ctx.new_page()
+    try:
+        p.goto(f"https://{c['host']}/{c['site']}", wait_until="domcontentloaded", timeout=45000)
+        p.wait_for_timeout(4000)
+        base = f"https://{c['host']}/wday/cxs/{c['tenant']}/{c['site']}/jobs"
+        out, offset = [], 0
+        while offset < 100:
+            r = p.request.post(base, data={"appliedFacets": {}, "limit": 20, "offset": offset,
+                                           "searchText": "product"},
+                               headers={"Accept": "application/json"})
+            if not r.ok:
+                _debug_shot(p, c["name"])
+                raise RuntimeError(f"HTTP {r.status} sur l'API Workday")
+            posts = r.json().get("jobPostings", [])
+            for j in posts:
+                path = j.get("externalPath", "")
+                out.append({"id": path, "title": j.get("title", ""),
+                            "url": f"https://{c['host']}/{c['site']}{path}",
+                            "location": j.get("locationsText", "")})
+            if len(posts) < 20:
+                break
+            offset += 20
+            p.wait_for_timeout(1500)
+        return out
+    finally:
+        p.close()
+
+
+def page(c, ctx):
+    p = ctx.new_page()
+    try:
+        p.goto(c["url"], wait_until="domcontentloaded", timeout=60000)
+        for sel in COOKIE_BTNS:  # bandeau cookies : on accepte s'il est là
+            try:
+                p.click(sel, timeout=1500)
+                break
+            except Exception:
+                pass
+        p.wait_for_timeout(8000)  # laisse le temps au JS de charger la liste d'offres
+        p.mouse.wheel(0, 20000)
         p.wait_for_timeout(2000)
         links = p.eval_on_selector_all(
             "a[href]", "els => els.map(e => [e.href, (e.innerText || '').trim()])")
+        rx = re.compile(c["link_regex"])
+        seen, out = set(), []
+        for href, text in links:
+            href = href.split("#")[0]
+            if rx.search(href) and href not in seen:
+                seen.add(href)
+                out.append({"id": href, "title": text.split("\n")[0][:150] or href,
+                            "url": href, "location": ""})
+        if not out:
+            _debug_shot(p, c["name"])
+        return out
+    except Exception:
+        _debug_shot(p, c["name"])
+        raise
     finally:
         p.close()
-    rx = re.compile(c["link_regex"])
-    seen, out = set(), []
-    for href, text in links:
-        href = href.split("#")[0]
-        if rx.search(href) and href not in seen:
-            seen.add(href)
-            out.append({"id": href, "title": text.split("\n")[0][:150] or href,
-                        "url": href, "location": ""})
-    return out
 
 
 def _norm(s):
@@ -218,8 +258,6 @@ def main():
                 if not ats:
                     raise RuntimeError("aucun ATS public trouvé (Lever/Greenhouse/Ashby/SmartRecruiters)")
                 state["ats"][n] = [ats, slug]
-        if ats == "workday":
-            return workday(c)
         if ats == "oracle":
             return oracle(c)
         if ats == "linkedin":
@@ -227,8 +265,8 @@ def main():
         return API[ats](slug)
 
     results = {}
-    api_cos = [c for c in CFG["companies"] if c["ats"] != "page"]
-    page_cos = [c for c in CFG["companies"] if c["ats"] == "page"]
+    api_cos = [c for c in CFG["companies"] if c["ats"] not in ("page", "workday")]
+    page_cos = [c for c in CFG["companies"] if c["ats"] in ("page", "workday")]
 
     def safe(c):
         try:
@@ -244,9 +282,12 @@ def main():
         from playwright.sync_api import sync_playwright
         with sync_playwright() as pw:
             b = pw.chromium.launch()
+            ctx = b.new_context(user_agent=BROWSER_UA, locale="fr-FR",
+                                viewport={"width": 1366, "height": 900})
             for c in page_cos:
                 try:
-                    results[c["name"]] = (page(c, b), None)
+                    fn = workday if c["ats"] == "workday" else page
+                    results[c["name"]] = (fn(c, ctx), None)
                 except Exception as e:
                     results[c["name"]] = (None, str(e)[:200])
             b.close()

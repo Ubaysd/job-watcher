@@ -14,11 +14,10 @@ linkedin:
 companies:
   - {name: LinkedIn,      ats: linkedin}
 
-  # Tech / scale-ups
+  # Tech / scale-ups (Mistral, Criteo, ManoMano, Spendesk, PayFit, Aircall, Deezer, Visa : couverts via LinkedIn)
   - {name: Datadog,       ats: greenhouse, slug: datadog}
   - {name: GitLab,        ats: greenhouse, slug: gitlab}
   - {name: Oracle,        ats: oracle, host: eeho.fa.us2.oraclecloud.com, site: CX_45001}
-  - {name: Mistral AI,    ats: auto, slugs: [mistral, mistralai]}
   - {name: Qonto,         ats: auto, slugs: [qonto]}
   - {name: Alan,          ats: auto, slugs: [alan]}
   - {name: Doctolib,      ats: auto, slugs: [doctolib]}
@@ -26,25 +25,18 @@ companies:
   - {name: Dataiku,       ats: auto, slugs: [dataiku]}
   - {name: Contentsquare, ats: auto, slugs: [contentsquare]}
   - {name: Algolia,       ats: auto, slugs: [algolia]}
-  - {name: Criteo,        ats: auto, slugs: [criteo]}
   - {name: BlaBlaCar,     ats: auto, slugs: [blablacar]}
-  - {name: ManoMano,      ats: auto, slugs: [manomano]}
   - {name: Swile,         ats: auto, slugs: [swile]}
-  - {name: Spendesk,      ats: auto, slugs: [spendesk]}
   - {name: Pennylane,     ats: auto, slugs: [pennylane]}
-  - {name: PayFit,        ats: auto, slugs: [payfit]}
   - {name: Mirakl,        ats: auto, slugs: [mirakl]}
   - {name: Ledger,        ats: auto, slugs: [ledger]}
-  - {name: Aircall,       ats: auto, slugs: [aircall]}
   - {name: Agicap,        ats: auto, slugs: [agicap]}
-  - {name: Deezer,        ats: auto, slugs: [deezer]}
   - {name: Sorare,        ats: auto, slugs: [sorare]}
   - {name: Stripe,        ats: auto, slugs: [stripe]}
   - {name: Spotify,       ats: auto, slugs: [spotify]}
   - {name: Ubisoft,       ats: auto, slugs: [Ubisoft2, Ubisoft]}
-  - {name: Visa,          ats: auto, slugs: [Visa]}
 
-  # Workday (POST sur l'API publique cxs)
+  # Workday : API appelée depuis le navigateur (sinon 429)
   - {name: Airbus,     ats: workday, host: ag.wd3.myworkdayjobs.com, tenant: ag, site: Airbus}
   - {name: Thales,     ats: workday, host: gtsgbu.wd3.myworkdayjobs.com, tenant: gtsgbu, site: Careers}
   - {name: Sanofi,     ats: workday, host: sanofi.wd3.myworkdayjobs.com, tenant: sanofi, site: SanofiCareers}
