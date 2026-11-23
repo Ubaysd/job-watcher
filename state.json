@@ -672,6 +672,7 @@
    "342894",
    "342900",
    "342982",
+   "343254",
    "343830",
    "344707",
    "345061",
@@ -777,6 +778,7 @@
    "351107",
    "351108",
    "351125",
+   "351127",
    "351128",
    "351130",
    "351132",
@@ -784,7 +786,8 @@
    "351160",
    "351163",
    "351196",
-   "351201"
+   "351201",
+   "351245"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -2528,6 +2531,7 @@
    "/job/Bingen-WA/UAS-Mechanical-Technician-B_JR10456261",
    "/job/Bristol-Area/Filton-Plant-Production-Support-Placement--125-months-_JR10429924",
    "/job/Chippenham-Area/Systems-Administrator---Spacecraft-Control-Centre_JR10422585",
+   "/job/Ciudad-de-Mexico/Trainee-Customer-Support_JR10459132",
    "/job/Columbus-MS/Aircraft-Sheetmetal-Technician-A---H125-FAL_JR10458350",
    "/job/Donauwrth/XMLNAME--ET22A-Certification-Qualification-Engineer--d-f-m-_JR10454703-1",
    "/job/Donauwrth/XMLNAME--ET23A-Software-Engineer--d-f-m--with-focus-on-Requirement_JR10455673",
@@ -3214,5 +3218,5 @@
   "swile senior product manager",
   "ubisoft campaign program manager f h nb"
  ],
- "last_linkedin": 1795465925.8403523
+ "last_linkedin": 1795469526.0813067
 }
