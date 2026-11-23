@@ -732,6 +732,7 @@
    "350692",
    "350694",
    "350789",
+   "350808",
    "350824",
    "350847",
    "350872",
@@ -787,7 +788,11 @@
    "351163",
    "351196",
    "351201",
-   "351245"
+   "351245",
+   "351247",
+   "351249",
+   "351252",
+   "351254"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -2551,6 +2556,7 @@
    "/job/Hamburg-Area/Internship--d-f-m--Tolerancing---Geometrical-Variation-management_JR10444910",
    "/job/Hamburg-Area/SYSTEM-SAFETY-ENGINEER--D-F-M-_JR10459236",
    "/job/Hamburg-Area/Working-student--d-f-m--for-Website-design-and-internal-communication-_JR10458258",
+   "/job/Herndon-Area-VA/Administrative-Assistant-II_JR10458417",
    "/job/Illescas/XMLNAME--XPLORER-2027-Quality-Assurance-Illescas-plant_JR10437700",
    "/job/Immenstaad-am-Bodensee/AI-Software-Engineer---Platform-Engineer--d-m-f----Talent-Pool_JR10459948",
    "/job/Jakarta-AH/A400M-Ground-Support-Systems-IT_JR10460697",
@@ -2577,6 +2583,7 @@
    "/job/Maulte-Area/STAGE-2027---Ingnieur-Prvention-des-Risques-Industriels--ALL-GENDER-_JR10450783",
    "/job/Maulte-Area/STAGE-2027---Ingnieur-en-planification-industrielle--ALL-GENDER-_JR10446010",
    "/job/Maulte-Area/STAGE-2027---Simulation---robustesse-des-processus-industriels--ALL-GENDER---ALL-GENDER-_JR10446755",
+   "/job/Mexico-City-Area/Tcnico-Mecnico_JR10451545-1",
    "/job/Mirabel-Airbus-Atlantique-Canada/Stagiaire---Fiabiliste_JR10460556",
    "/job/Mirabel/Analyste-d-affaires---Logistique-SAP---Business-Analyst-for-SAP-Logistics_JR10454462",
    "/job/Mirabel/Responsable-principal-de-programme--Intgration---Fuselage-Integration-Senior-Program-Manager---Fuselage_JR10459719",
@@ -2705,6 +2712,7 @@
    "/job/Newark-NJ/Area-Business-Manager--Rare-Hematology--Allergy-Immunology---North-Jersey---Manhattan_R2879273",
    "/job/Ocoyoacac/Operador_R2876876",
    "/job/Omaha-NE/Area-Business-Manager--Hematology-Oncology---Omaha--NE_R2879627-1",
+   "/job/Orlando-FL/Area-Business-Manager--Allergy-Immunology--Orlando--FL---Fort-Lauderdale--FL_R2875037",
    "/job/Paris/Global-Head-of-Portfolio-Strategy_R2878459-1",
    "/job/Reading/Senior-Regulatory-Affairs-Manager_R2876808",
    "/job/Restricted-Posting/Pre-Filled-Syringe-Process-Engineering-Intern_R2875164",
@@ -3149,7 +3157,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "ok",
+  "Societe Generale": "error",
   "Amundi": "ok"
  },
  "alerted": [
