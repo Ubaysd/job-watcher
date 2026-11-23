@@ -1,0 +1,240 @@
+# Liste blanche des employeurs retenus depuis LinkedIn (1 nom par ligne, insensible à la casse/accents)
+# Assurance / mutuelles / assistance
+AXA
+Allianz
+Allianz Partners
+Allianz Trade
+Allianz Direct
+Generali
+Europ Assistance
+Redion
+AG2R La Mondiale
+Covéa
+MAAF
+MMA
+GMF
+MACIF
+MAIF
+Aéma
+Groupama
+CNP Assurances
+Swiss Life
+SCOR
+Zurich
+Chubb
+AIG
+Malakoff Humanis
+Klesia
+Harmonie Mutuelle
+MGEN
+VYV
+April
+Crédit Agricole Assurances
+Predica
+BNP Paribas Cardif
+Sogecap
+Natixis Assurances
+La Banque Postale Assurances
+Coface
+Hiscox
+Munich Re
+Swiss Re
+Mondial Assistance
+IMA
+Wakam
+Alan
+# Banque / finance / paiement
+BNP Paribas
+Société Générale
+Crédit Agricole
+CACIB
+LCL
+BPCE
+Natixis
+Banque Populaire
+Caisse d'Epargne
+Crédit Mutuel
+CIC
+La Banque Postale
+HSBC
+Boursorama
+BoursoBank
+Amundi
+AXA IM
+Rothschild
+Lazard
+J.P. Morgan
+JPMorgan
+Goldman Sachs
+Morgan Stanley
+Bank of America
+Citi
+Barclays
+Deutsche Bank
+UBS
+Oddo BHF
+Euronext
+Banque de France
+Caisse des Dépôts
+Bpifrance
+American Express
+Visa
+Mastercard
+PayPal
+Worldline
+Ayvens
+Arval
+Cofidis
+Oney
+Qonto
+Revolut
+N26
+Lydia
+Sumeria
+Swile
+Ledger
+Euroclear
+BNY
+State Street
+Carmignac
+Tikehau
+Ardian
+Eurazeo
+Wendel
+Edenred
+# Tech / logiciel / cloud
+Microsoft
+Google
+Amazon
+Amazon Web Services
+AWS
+Meta
+Apple
+Oracle
+IBM
+SAP
+Salesforce
+ServiceNow
+Adobe
+Cisco
+Dell
+HP
+Hewlett Packard Enterprise
+Intel
+NVIDIA
+Snowflake
+Databricks
+Datadog
+GitLab
+MongoDB
+Atlassian
+Workday
+Stripe
+Uber
+Airbnb
+Booking.com
+Spotify
+Netflix
+LinkedIn
+Dassault Systèmes
+Criteo
+Doctolib
+Back Market
+Mistral AI
+Dataiku
+Contentsquare
+Algolia
+BlaBlaCar
+ManoMano
+Mirakl
+Pennylane
+PayFit
+Spendesk
+Aircall
+Agicap
+Deezer
+Ubisoft
+Veepee
+leboncoin
+Adevinta
+Cdiscount
+Fnac Darty
+Sorare
+# Conseil / ESN
+Capgemini
+Sopra Steria
+Atos
+Eviden
+CGI
+Accenture
+Deloitte
+PwC
+EY
+KPMG
+McKinsey
+BCG
+Boston Consulting Group
+Bain
+Wavestone
+# Télécoms / médias
+Orange
+SFR
+Bouygues Telecom
+Free
+Iliad
+Ericsson
+Nokia
+Publicis
+Havas
+Vivendi
+Canal+
+TF1
+# Industrie / énergie / transport
+Schneider Electric
+Legrand
+Alstom
+Siemens
+Bosch
+Valeo
+Stellantis
+Renault
+Michelin
+Forvia
+Safran
+Airbus
+Thales
+Dassault Aviation
+Naval Group
+MBDA
+TotalEnergies
+Engie
+EDF
+Veolia
+Suez
+Air Liquide
+Saint-Gobain
+Vinci
+Bouygues
+Eiffage
+Air France
+SNCF
+RATP
+La Poste
+# Santé / luxe / conso / distribution
+Sanofi
+Servier
+Ipsen
+L'Oréal
+LVMH
+Kering
+Hermès
+Chanel
+Danone
+Pernod Ricard
+Carrefour
+Auchan
+Decathlon
+Leroy Merlin
+Adeo
+Accor
+Sodexo

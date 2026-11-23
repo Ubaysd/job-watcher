@@ -1,0 +1,74 @@
+# Filtres appliqués à toutes les sources (regex, insensibles à la casse)
+filters:
+  title_include: "product owner|product manager|chef de produit|program manager|programme manager|project manager|chef de projet|PMO|TPM|delivery manager|head of product|transformation|AI use case|deployment strategist"
+  title_exclude: "\\bstage\\b|\\bintern\\b|internship|stagiaire|alternance|alternant|apprenti|apprentice|working student|graduate|\\bVIE\\b|V\\.I\\.E"
+  location_include: "france|paris|ile-de-france|île-de-france|la défense|la defense|saint-ouen|nanterre|courbevoie|puteaux|issy|boulogne|levallois|montrouge|charenton|remote|hybrid"
+
+# ats: auto -> le script teste Lever / Greenhouse / Ashby / SmartRecruiters avec les slugs candidats
+# et mémorise celui qui répond (state.json).
+# Grand filet : recherche publique LinkedIn (offres < 1h, France), filtrée sur big_companies.txt
+linkedin:
+  keywords: ["product owner", "product manager", "chef de projet", "program manager", "chef de produit", "PMO"]
+  pages: 2   # 25 offres par page, triées par date
+
+companies:
+  - {name: LinkedIn,      ats: linkedin}
+
+  # Tech / scale-ups
+  - {name: Datadog,       ats: greenhouse, slug: datadog}
+  - {name: GitLab,        ats: greenhouse, slug: gitlab}
+  - {name: Oracle,        ats: oracle, host: eeho.fa.us2.oraclecloud.com, site: CX_45001}
+  - {name: Mistral AI,    ats: auto, slugs: [mistral, mistralai]}
+  - {name: Qonto,         ats: auto, slugs: [qonto]}
+  - {name: Alan,          ats: auto, slugs: [alan]}
+  - {name: Doctolib,      ats: auto, slugs: [doctolib]}
+  - {name: Back Market,   ats: auto, slugs: [backmarket, back-market]}
+  - {name: Dataiku,       ats: auto, slugs: [dataiku]}
+  - {name: Contentsquare, ats: auto, slugs: [contentsquare]}
+  - {name: Algolia,       ats: auto, slugs: [algolia]}
+  - {name: Criteo,        ats: auto, slugs: [criteo]}
+  - {name: BlaBlaCar,     ats: auto, slugs: [blablacar]}
+  - {name: ManoMano,      ats: auto, slugs: [manomano]}
+  - {name: Swile,         ats: auto, slugs: [swile]}
+  - {name: Spendesk,      ats: auto, slugs: [spendesk]}
+  - {name: Pennylane,     ats: auto, slugs: [pennylane]}
+  - {name: PayFit,        ats: auto, slugs: [payfit]}
+  - {name: Mirakl,        ats: auto, slugs: [mirakl]}
+  - {name: Ledger,        ats: auto, slugs: [ledger]}
+  - {name: Aircall,       ats: auto, slugs: [aircall]}
+  - {name: Agicap,        ats: auto, slugs: [agicap]}
+  - {name: Deezer,        ats: auto, slugs: [deezer]}
+  - {name: Sorare,        ats: auto, slugs: [sorare]}
+  - {name: Stripe,        ats: auto, slugs: [stripe]}
+  - {name: Spotify,       ats: auto, slugs: [spotify]}
+  - {name: Ubisoft,       ats: auto, slugs: [Ubisoft2, Ubisoft]}
+  - {name: Visa,          ats: auto, slugs: [Visa]}
+
+  # Workday (POST sur l'API publique cxs)
+  - {name: Airbus,     ats: workday, host: ag.wd3.myworkdayjobs.com, tenant: ag, site: Airbus}
+  - {name: Thales,     ats: workday, host: gtsgbu.wd3.myworkdayjobs.com, tenant: gtsgbu, site: Careers}
+  - {name: Sanofi,     ats: workday, host: sanofi.wd3.myworkdayjobs.com, tenant: sanofi, site: SanofiCareers}
+  - {name: Mastercard, ats: workday, host: mastercard.wd1.myworkdayjobs.com, tenant: mastercard, site: CorporateCareers}
+  - {name: Salesforce, ats: workday, host: salesforce.wd12.myworkdayjobs.com, tenant: salesforce, site: External_Career_Site}
+
+  # Grands groupes sans API publique -> rendu navigateur + diff des liens d'offres
+  - name: AXA
+    ats: page
+    url: "https://careers.axa.com/global/en/search-results?keywords=product%20owner"
+    link_regex: "/job/"
+  - name: Allianz (dont Allianz Partners, Trade, Direct)
+    ats: page
+    url: "https://careers.allianz.com/search/?q=product&locationsearch=France"
+    link_regex: "/job/"
+  - name: BNP Paribas
+    ats: page
+    url: "https://group.bnpparibas/emploi-carriere/toutes-offres-emploi?q=product%20owner"
+    link_regex: "/offre-emploi/"
+  - name: Societe Generale
+    ats: page
+    url: "https://careers.societegenerale.com/rechercher?query=product%20owner"
+    link_regex: "/offres-d-emploi/"
+  - name: Amundi
+    ats: page
+    url: "https://jobs.amundi.com/job/list-of-jobs.aspx"
+    link_regex: "/job/emploi-"
