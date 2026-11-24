@@ -941,6 +941,7 @@
    "28840d7f-1fee-4dfa-a478-80b9dd91d011",
    "2c0f9499-d42d-4b84-8ce3-ae5e5713f738",
    "2dc99c53-9cc7-4c3f-a682-1f79bfa38ce6",
+   "2e09e54e-fc8a-4f61-9b19-36804d5413c6",
    "2e2475f0-fee2-4d54-9a71-9d56945c5287",
    "30260714-7438-4948-92fe-b4657da1695e",
    "334c9870-21fe-44ad-ade7-34a03dac8ea3",
@@ -2748,6 +2749,7 @@
    "/job/Toulouse-Area/Ingnieur-d-Essais-Environnementaux-et-Thermiques--h-f-_JR10436448-1",
    "/job/Toulouse-Area/New-Flight-Management-System--nFMS----Validation---Verification-Engineer_JR10416023-1",
    "/job/Toulouse-Area/PSL-Architect-for-Aircraft-Programmes--f-m-_JR10432910",
+   "/job/Toulouse-Area/Performance-Manager--f-m-_JR10451445",
    "/job/Toulouse-Area/Retrofit-Solution-Project-Manager--F-M-_JR10443086",
    "/job/Toulouse-Area/STAGE-2027---Amlioration-continue---FAL-A320--F-H-_JR10442438",
    "/job/Toulouse-Area/Support-Logistique---Customer-Line-WB-H-F_JR10456504",
@@ -3098,6 +3100,7 @@
    "/job/Indiana---Indianapolis/Senior-Instructor---Marketing-Cloud_JR367932-1",
    "/job/Indiana---Indianapolis/Strategic---Transformation-Programs--Senior-Manager--Customer-Success-_JR361415",
    "/job/Indiana---Remote/Data---AI-Practice-D360-Product-Architect_JR368185",
+   "/job/Ireland---Dublin/Cloud-Account-Executive----Partner-Cloud_JR369450",
    "/job/Ireland---Dublin/Customer-Success-Manager---Dutch-or-Swedish-speaker_JR368491",
    "/job/Ireland---Dublin/Customer-Success-Manager_JR367746",
    "/job/Ireland---Dublin/Software-Engineer---AI-Agent-Platform_JR368957",
@@ -3280,7 +3283,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "ok",
+  "LinkedIn": "error",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -3306,7 +3309,7 @@
   "Deezer": "error",
   "Sorare": "ok",
   "Stripe": "ok",
-  "Spotify": "ok",
+  "Spotify": "error",
   "Ubisoft": "ok",
   "Visa": "error",
   "Airbus": "ok",
@@ -3396,5 +3399,5 @@
   "thales service delivery manager gnss",
   "ubisoft campaign program manager f h nb"
  ],
- "last_linkedin": 1795523922.4764109
+ "last_linkedin": 1795527522.6467853
 }
