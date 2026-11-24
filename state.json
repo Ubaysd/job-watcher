@@ -1,11 +1,13 @@
 {
  "seen": {
   "LinkedIn": [
+   "4424231731",
    "4432677765",
    "4448765026",
    "4450768585",
    "4480399949",
    "4483125324",
+   "4486434580",
    "4492638183",
    "4492646455",
    "4492646456",
@@ -2638,8 +2640,10 @@
    "/job/Getafe-Area/Airborne-Security-Communication-System-Designer_JR10455307",
    "/job/Getafe-Area/Aircraft-Performance---Certification-Engineer_JR10456542",
    "/job/Getafe-Area/CAMO-Continuing-Airworthiness-Engineer---A400M-_JR10458607",
+   "/job/Getafe-Area/Configuration---Transversal-Programme-Manager_JR10459934",
    "/job/Getafe-Area/Digital-Data-Operations-Manager_JR10437362-1",
    "/job/Getafe-Area/Discover-I-2027-2028---Applying-the-V-Model-in-a-Real-World-Space-Mission-Development-Internship_JR10456589",
+   "/job/Getafe-Area/Embedded-Software-Engineer_JR10458921-1",
    "/job/Getafe-Area/Junior-Structural-Designer_JR10458419",
    "/job/Getafe-Area/Maintenance-Program-Systems-Engineer_JR10456598-1",
    "/job/Getafe-Area/Product-Manager-Quality-Digital-Solutions_JR10442985",
@@ -2750,6 +2754,7 @@
    "/job/Toulouse---Saint-Martin/Product-Owner-Logiciel-d-Essais--f-h-_JR10457593",
    "/job/Toulouse-Area/A350-FAL-Ops-Cabin-Production-Activity-Controller_JR10409786-1",
    "/job/Toulouse-Area/ATR---Customer-Front-Line-Engineer---M-F-_JR10455795-2",
+   "/job/Toulouse-Area/Airbus-Protect---A320-Family-Programme-Manager-support----All-Gender-_JR10460981",
    "/job/Toulouse-Area/Airbus-Protect---Ingnieur-e--Qualit-Production--All-Gender-_JR10437016",
    "/job/Toulouse-Area/Airbus-Protect---Manufacturing-Data-Engineer---Digital-Continuity--All-Gender-_JR10460741",
    "/job/Toulouse-Area/Aircraft-Performance-Engineer---High-Speed--M-F-_JR10458335",
@@ -2758,6 +2763,7 @@
    "/job/Toulouse-Area/Cross-Plant-industrialisation-M-F_JR10455277",
    "/job/Toulouse-Area/H-F-Business-Accountant-ADS-France_JR10442809",
    "/job/Toulouse-Area/IVV-Manager-within-crypto-product-line_JR10448449-1",
+   "/job/Toulouse-Area/Ingnieur-Architecte-Logiciel-Embarqu--f-h-_JR10459508",
    "/job/Toulouse-Area/Ingnieur-d-Essais-Environnementaux-et-Thermiques--h-f-_JR10436448-1",
    "/job/Toulouse-Area/New-Flight-Management-System--nFMS----Validation---Verification-Engineer_JR10416023-1",
    "/job/Toulouse-Area/PSL-Architect-for-Aircraft-Programmes--f-m-_JR10432910",
@@ -2774,6 +2780,7 @@
   ],
   "Sanofi": [
    "/job/Ambars/stage-6-mois-analyse-donnes-validation_R2872084",
+   "/job/Amsterdam/Medical-Advisor--FBM--Systemic-Mastocytosis-Netherlands_R2871895-1",
    "/job/Aramon/stage-6-mois---ingnierie-pdagogique_R2878578",
    "/job/Aramon/stage-6-mois--validation-des-procds-de-purification_R2873905",
    "/job/Aramon/stage-6-mois-fiabilit-mthodes-en-maintenance_R2879366",
@@ -2803,6 +2810,7 @@
    "/job/Cambridge-MA/Transplant-Agile-Lead---Northeast_R2878797",
    "/job/Cambridge-MA/US-Marketing-Specialist--Respiratory_R2878501",
    "/job/Cambridge-MA/US-Medical-Director--Rhinology--Gastroenterology--Allergy_R2878775-1",
+   "/job/Chengdu/Regional-Qualification-Expert_R2880096",
    "/job/City-of-Singapore/Associate-Engineer_R2857626-1",
    "/job/City-of-Singapore/Head-of-Engineering---Projects--Modulus-_R2867698",
    "/job/City-of-Singapore/QC-Supervisor--Microbiology-_R2857391-1",
@@ -2904,6 +2912,7 @@
    "/job/Waterford/Automation-Engineer_R2871109",
    "/job/Waterford/Batch-Release-Lead-Qualified-Person_R2871936",
    "/job/Waterford/Manufacturing-Operations-Manager_R2872381",
+   "/job/Waterford/Manufacturing-Operations-Team-Member_R2867227",
    "/job/Waterford/Manufacturing-Operations-Team-Member_R2871080",
    "/job/Waterford/Process-Engineer--Inspection--Device-Assembly--Packaging-_R2876069",
    "/job/Waterford/Quality-Control-Laboratory-Intern_R2874379",
@@ -3124,6 +3133,7 @@
    "/job/Italy---Milan/FDE-Voice---Italy_JR366178",
    "/job/Japan---Tokyo/Qualified-Success-Architect_JR368158",
    "/job/Mexico---Mexico-City/Engagement-Delivery-Manager_JR366670",
+   "/job/Mexico---Mexico-City/Prime-Territory-Account-Executive_JR367537",
    "/job/Mexico---Mexico-City/Senior-Instructor-Salesforce----Tableau_JR365621",
    "/job/Mexico---Mexico-City/Senior-Technical-Consultant_JR366662",
    "/job/Mexico---Mexico-City/Senior-Technical-Enablement-Specialist---MuleSoft---Tableau_JR365265-1",
@@ -3301,7 +3311,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "error",
+  "LinkedIn": "ok",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -3369,6 +3379,7 @@
   "gitlab senior professional services project manager paris",
   "gitlab staff product manager agentic planning",
   "gitlab staff product manager tenant scale",
+  "groupama chef de projet h f",
   "ledger senior product manager earn",
   "ledger staff product manager ledger wallet contractor",
   "maif product owner squad ctc tribu crm f h",
@@ -3415,8 +3426,9 @@
   "stripe technical program manager money as a service",
   "swile senior product manager",
   "thales engineering delivery manager cybersecurite f h",
+  "thales product owner ontologie f h",
   "thales service delivery manager gnss",
   "ubisoft campaign program manager f h nb"
  ],
- "last_linkedin": 1795527522.6467853
+ "last_linkedin": 1795531122.9422967
 }
