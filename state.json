@@ -355,6 +355,7 @@
    "8314006",
    "8314112",
    "8314268",
+   "8315971",
    "8318034",
    "8323909",
    "8324702",
@@ -638,6 +639,7 @@
    "8936153002",
    "8936156002",
    "8936715002",
+   "8937275002",
    "8937764002",
    "8937797002",
    "8937803002",
@@ -840,7 +842,9 @@
    "351256",
    "351259",
    "351268",
-   "351280"
+   "351280",
+   "351289",
+   "351304"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -2780,6 +2784,7 @@
    "/job/Hong-Kong/XMLNAME--Senior--Product-Specialist--Vaccine_R2877588-1",
    "/job/Hyderabad/Analyst---Business-Analytics_R2862701",
    "/job/Hyderabad/Analyst---Customer-Facing-Effectiveness_R2877786",
+   "/job/Hyderabad/Analyst---Field-Deployment_R2880035",
    "/job/Hyderabad/Analytics-Platforms-Analyst_R2871874",
    "/job/Hyderabad/Central-Clinical-Research-Associate_R2879977",
    "/job/Hyderabad/Expert-Scientific-Writer_R2870905-2",
