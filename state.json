@@ -3101,6 +3101,7 @@
    "/job/OFallon-Missouri/Lead-Site-Reliability-Engineer--Big-Data-_R-294454",
    "/job/OFallon-Missouri/Lead-Software-Engineer--Architect-_R-293394-1",
    "/job/OFallon-Missouri/Manager--Legal-Compliance_R-291937",
+   "/job/OFallon-Missouri/Manager--Product-Management_R-290818",
    "/job/OFallon-Missouri/Senior-Platform-Engineer_R-291795",
    "/job/OFallon-Missouri/Software-Engineer-II_R-292582-1",
    "/job/OFallon-Missouri/VP-Global-Enablement--Experience----Operations_R-291448-1",
@@ -3510,7 +3511,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "error",
+  "Societe Generale": "ok",
   "Amundi": "ok"
  },
  "alerted": [
