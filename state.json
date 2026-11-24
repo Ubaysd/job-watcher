@@ -22,6 +22,8 @@
    "4493699075",
    "4493917327",
    "4493987298",
+   "4493994581",
+   "4493996524",
    "4494036025"
   ],
   "Datadog": [
@@ -2677,6 +2679,7 @@
    "/job/Toulouse---Saint-Martin/Product-Owner-Logiciel-d-Essais--f-h-_JR10457593",
    "/job/Toulouse-Area/A350-FAL-Ops-Cabin-Production-Activity-Controller_JR10409786-1",
    "/job/Toulouse-Area/Airbus-Protect---Ingnieur-e--Qualit-Production--All-Gender-_JR10437016",
+   "/job/Toulouse-Area/Airbus-Protect---Manufacturing-Data-Engineer---Digital-Continuity--All-Gender-_JR10460741",
    "/job/Toulouse-Area/Aircraft-Performance-Engineer---High-Speed--M-F-_JR10458335",
    "/job/Toulouse-Area/Business-Digital-leader-of-Strategic-Sourcing-Solutions--F-M-_JR10425806",
    "/job/Toulouse-Area/Concepteur-de-cartes-numriques--f-h-_JR10448154-1",
@@ -2989,6 +2992,7 @@
    "/job/India---Bangalore/Principal-Member-of-Technical-Staff--PMTS----Core-Metadata-Platform--Informatica-CDGC-_JR339999",
    "/job/India---Bangalore/Senior-Technical-Architect--Revenue-CPQ-_JR362399",
    "/job/India---Bangalore/Software-Engineering-LMTS_JR338174",
+   "/job/India---Bangalore/Strategic-Builder_JR362385-1",
    "/job/India---Bangalore/Technical-Architect---Health-or-Life-Sciences-Cloud_JR366955",
    "/job/India---Gurgaon/Director--Solutions-Builder--Builder-Portfolio-Leader-_JR366109",
    "/job/India---Gurgaon/Named-Account-Executive_JR368888",
@@ -3297,7 +3301,9 @@
   "stripe technical program manager extensibility platform",
   "stripe technical program manager money as a service",
   "swile senior product manager",
+  "thales engineering delivery manager cybersecurite f h",
+  "thales service delivery manager gnss",
   "ubisoft campaign program manager f h nb"
  ],
- "last_linkedin": 1795502195.0748713
+ "last_linkedin": 1795505794.2842515
 }
