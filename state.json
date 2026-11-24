@@ -32,7 +32,9 @@
    "4493994581",
    "4493996524",
    "4494036025",
-   "4494197744"
+   "4494197744",
+   "4494744268",
+   "4494757022"
   ],
   "Datadog": [
    "1497543",
@@ -892,6 +894,7 @@
    "351268",
    "351279",
    "351280",
+   "351282",
    "351289",
    "351298",
    "351300",
@@ -2706,6 +2709,8 @@
    "/job/Albacete/Support---Service-Controller_JR10455637-1",
    "/job/Albacete/XMLNAME--CORE-DIGITAL-CAMPUS---ServiceNow-ITSM-Business-Analyst_JR10453586",
    "/job/Albacete/XMLNAME--DIGITAL-CAMPUS--Servicenow-Business-analyst---Service-Request-Management--SRM-_JR10453677",
+   "/job/Albacete/XMLNAME--DIGITALCAMPUS-Data---Business-Analysts--M-F-_JR10456829",
+   "/job/Albacete/XMLNAME--DIGITALCAMPUS-Technical-Leader---Palantir-Foundry--M-F-_JR10456820",
    "/job/Bangalore-Area/Group-Manager--Software-Engineering-Manager-_JR10411083",
    "/job/Bangalore-Area/Lead-DevSecops-Engineer_JR10456875",
    "/job/Bangkok---Airbus-Flight-Ops-Services/Flight-Operations-Engineer---Performance_JR10460252",
@@ -3545,6 +3550,7 @@
   "gitlab staff product manager agentic planning",
   "gitlab staff product manager tenant scale",
   "groupama chef de projet h f",
+  "l'oreal tech product owner data insights",
   "lcl product manager mouv h f",
   "ledger senior product manager earn",
   "ledger staff product manager ledger wallet contractor",
@@ -3600,5 +3606,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795560227.9894483
+ "last_linkedin": 1795563827.4815269
 }
