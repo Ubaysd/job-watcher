@@ -955,6 +955,7 @@
    "7059bd81-4363-41fd-b7e0-601917195421",
    "7115f641-7aa2-4835-ab1c-4d5839203bb1",
    "727111d2-85bf-4e93-bbce-7eb13d815252",
+   "7694cd31-bd5b-4f8d-ad59-2377e24a767a",
    "77f2735a-5865-4ef4-a6cd-b4262ab9fffa",
    "77f95a23-3d45-4222-8455-1a55866b22d6",
    "7adbf5ae-c44d-4b33-afef-0894772cbca3",
@@ -963,6 +964,7 @@
    "853ec31c-44b1-4327-89ca-b71525ab9cd0",
    "8637aff5-a425-45e3-8e93-5d27a3a282d7",
    "88c0bbe1-ec12-4d7b-97f1-cff384e4208f",
+   "8a73fb0b-c200-4c8f-8a0d-ad4c8cdc51e6",
    "8a96d4c9-c52c-4695-a584-aa0da4700e8a",
    "8c26a037-fd9a-454d-90bf-528b967c07bd",
    "8e133035-c6ce-435d-b37a-a8cb3e4895e8",
@@ -2595,6 +2597,7 @@
    "/job/Getafe-Area/XMLNAME--MAIR-2026-2027---Engineering-A350-Getafe-Plant_JR10459078",
    "/job/Getafe-Area/XMLNAME-2026-27-INTERNSHIP-MASTER-AIRFRAME_JR10458591",
    "/job/Getafe/ME-Industrial-Architect---Sustaining--SIRTAP-at-FAL--Temp-Agency-_JR10457604",
+   "/job/Getafe/XMLNAME--Discover-I-2027-2028-ARIANE-6-PRODUCTION-SUPPORT-INTERN_JR10456448",
    "/job/Getafe/XMLNAME--Discover-I-2027-2028-Configuration---Management-Systems-Support-Internship_JR10455324",
    "/job/Getafe/XMLNAME--Discover-I-2027-2028-Flight-line-support-A330-MRTT-Internship_JR10456433",
    "/job/Getafe/XMLNAME--MAIR-2026-2027---RFE-Architecture---Integration_JR10460065",
@@ -2701,6 +2704,7 @@
   "Sanofi": [
    "/job/Ambars/stage-6-mois-analyse-donnes-validation_R2872084",
    "/job/Aramon/stage-6-mois---ingnierie-pdagogique_R2878578",
+   "/job/Aramon/stage-6-mois--validation-des-procds-de-purification_R2873905",
    "/job/Aramon/stage-6-mois-fiabilit-mthodes-en-maintenance_R2879366",
    "/job/Barcelona/Data---AI-Engineering_R2879259",
    "/job/Barcelona/Lead-New-Product-Planning-Forecasting_R2871360",
@@ -2820,6 +2824,7 @@
    "/job/Yancheng/District-Manager_R2877276",
    "/job/Zeralda/Oprateur-de-production_R2877453-1",
    "/job/Zeralda/Production-Operator_R2878519-1",
+   "/job/Zhongshan/--_R2880102",
    "/job/sterbro/Neurology-Marketing-Intern_R2880245"
   ],
   "Mastercard": [
@@ -3008,6 +3013,7 @@
    "/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
    "/job/India---Hyderabad/System-Analyst_JR367594",
    "/job/India---Hyderabad/Systems-Engineer----Workday-Platform_JR364391",
+   "/job/India---Hyderabad/Technical-Architect---Tableau-Next_JR351729",
    "/job/India---Hyderabad/Technical-Writer--Critical-Incident-Communications_JR352053",
    "/job/India---Mumbai/Director--Engagement-Delivery--Salesforce---BFSI-Exp-Mandatory-_JR366419",
    "/job/Indiana---Indianapolis/Product-Management-Director_JR362887",
