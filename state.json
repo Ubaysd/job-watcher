@@ -658,6 +658,7 @@
    "8949667002",
    "8950027002",
    "8950794002",
+   "8950909002",
    "8954207002",
    "8955887002",
    "8957054002",
@@ -3193,7 +3194,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "error",
+  "Societe Generale": "ok",
   "Amundi": "ok"
  },
  "alerted": [
