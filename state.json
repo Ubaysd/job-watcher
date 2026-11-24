@@ -780,6 +780,7 @@
    "350674",
    "350676",
    "350677",
+   "350687",
    "350692",
    "350694",
    "350789",
@@ -871,7 +872,11 @@
    "351308",
    "351309",
    "351314",
-   "351316"
+   "351316",
+   "351330",
+   "351331",
+   "351332",
+   "351333"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -979,6 +984,7 @@
    "3f730db0-7262-4811-ada8-420b7b446745",
    "41224533-6e1c-45a5-9c18-7b1c3104c92d",
    "42949a69-206a-426d-8a75-fa48ce384ad1",
+   "43e563b6-3950-4f61-9c6a-72e9269d23a7",
    "483672d5-1903-45d3-8fe8-63025f655ccd",
    "48c185af-22d2-4137-9d86-cd450175d297",
    "4a6d6c9a-bd54-4007-b473-44fde9b41c90",
@@ -1012,6 +1018,7 @@
    "8e133035-c6ce-435d-b37a-a8cb3e4895e8",
    "8ec3768e-13cf-4e92-ba14-5d2a9484227c",
    "8f162d65-d823-4728-8647-7260519dd4b0",
+   "90efcad6-a845-4f30-bed4-72e65f5c9da6",
    "91599664-2799-4247-94cc-771d52bea5bc",
    "9160db0d-a894-4fba-be07-c4b9f6fd2605",
    "959a0757-c4c5-4035-a6dc-637493f9a895",
@@ -1589,6 +1596,7 @@
    "4846754004",
    "5219369004",
    "5490504004",
+   "5557522004",
    "5678655004",
    "6007177004",
    "6107420004",
@@ -2434,6 +2442,7 @@
    "8393866",
    "8393939",
    "8394657",
+   "8394936",
    "8396168",
    "8397260",
    "8399738",
@@ -2627,7 +2636,9 @@
    "744000162754019",
    "744000162754259",
    "744000162754379",
-   "744000163252382"
+   "744000163252382",
+   "744000163507459",
+   "744000163507464"
   ],
   "Airbus": [
    "/job/Albacete/Manufacturing-Engineer_JR10460531",
@@ -2825,6 +2836,7 @@
    "/job/Bogota/Partner--Sourcing_R2879243",
    "/job/Bogota/People-Services-Generalist---EWF_R2874950-1",
    "/job/Bogota/Regional-Learning-Delivery-Specialist_R2877847",
+   "/job/Bogota/Senior-Specialist---Campaign-Operations_R2880011",
    "/job/Boston-MA/Area-Business-Manager---ENT---Boston--MA_R2879950",
    "/job/Budapest/Global-Translation-Manager_R2879630",
    "/job/Budapest/Regional-quality-documentation-manager_R2879631",
@@ -3212,6 +3224,7 @@
    "/job/Virginia---Washington-DC-Metro---Remote/Solution-Consultant---Senior-Solution-Consultant---MissionForce--Cleared-_JR368954",
    "/job/Virginia---Washington-DC-Metro---Remote/Technical-Architect---Senior-Technical-Architect---Missionforce_JR362489",
    "/job/Washington---Bellevue/Director--Product-Management_JR367817",
+   "/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861",
    "/job/Washington---Bellevue/Software-Engineering-SMTS_JR359080",
    "/job/Washington---Remote/Partner---Agentforce-Contact-Center--Solution-Consulting-Director_JR354950",
    "/job/Washington---Seattle/Customer-Success-Manager--Nonprofit_JR368089",
@@ -3475,5 +3488,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795534722.7863967
+ "last_linkedin": 1795538498.0437047
 }
