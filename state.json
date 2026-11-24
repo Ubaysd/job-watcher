@@ -2581,6 +2581,7 @@
    "744000163252382"
   ],
   "Airbus": [
+   "/job/Albacete/Manufacturing-Engineer_JR10460531",
    "/job/Albacete/Support---Service-Controller_JR10455637-1",
    "/job/Albacete/XMLNAME--CORE-DIGITAL-CAMPUS---ServiceNow-ITSM-Business-Analyst_JR10453586",
    "/job/Albacete/XMLNAME--DIGITAL-CAMPUS--Servicenow-Business-analyst---Service-Request-Management--SRM-_JR10453677",
@@ -2591,6 +2592,7 @@
    "/job/Barcelona/GIS-and-Mapping-intern_JR10460782",
    "/job/Bingen-WA/Composite-Technician-B_JR10456264",
    "/job/Bingen-WA/UAS-Mechanical-Technician-B_JR10456261",
+   "/job/Brasov-30-Hermann/Practicant-Logistica_JR10460472",
    "/job/Bristol-Area/Filton-Plant-Production-Support-Placement--125-months-_JR10429924",
    "/job/Chippenham-Area/Systems-Administrator---Spacecraft-Control-Centre_JR10422585",
    "/job/Ciudad-de-Mexico/Trainee-Customer-Support_JR10459132",
@@ -2695,6 +2697,7 @@
    "/job/Salaunes/RESPONSABLE--QUALITE-LIGNE_JR10458038",
    "/job/Sevilla-Area/Production-Activity-Controller--Temp-Agency-_JR10460282",
    "/job/Taufkirchen--Ottobrunn/AI-Foundations-Engineer--m-f-_JR10459549",
+   "/job/Taufkirchen--Ottobrunn/Agentic-Engineering-Architect--m-f-_JR10459546",
    "/job/Taufkirchen--Ottobrunn/Cyber-Security-Hardware-Architect--d-m-w-_JR10456874",
    "/job/Taufkirchen--Ottobrunn/ML-Data---Infrastructure-Engineer--m-f-_JR10459530",
    "/job/Taufkirchen--Ottobrunn/ML-Engineer--Model-Development--m-f-_JR10459539",
@@ -2729,7 +2732,9 @@
    "/job/Aramon/stage-6-mois--validation-des-procds-de-purification_R2873905",
    "/job/Aramon/stage-6-mois-fiabilit-mthodes-en-maintenance_R2879366",
    "/job/Barcelona/Data---AI-Engineering_R2879259",
+   "/job/Barcelona/Global-Lead-Buyer---Digital-Delivery---Operations_R2875272",
    "/job/Barcelona/Lead-New-Product-Planning-Forecasting_R2871360",
+   "/job/Barcelona/Market-Access---Health-Economics-Lead_R2879894",
    "/job/Barcelona/Regional-Access---Hospital-Manager_R2879888",
    "/job/Beijing/M-S-CC---MQC-Lead-IFB-Beijing_R2797502",
    "/job/Beijing/M-S-IFB-Contamination-Control-Manager_R2842345",
@@ -3084,6 +3089,7 @@
    "/job/United-Kingdom---London/Customer-Success-Manager_JR367495",
    "/job/United-Kingdom---London/Field-marketing-senior-lead_JR363519",
    "/job/United-Kingdom---London/Principal-Success-Manager_JR368342",
+   "/job/United-Kingdom---London/Slack---Enterprise-Cloud-Account-Executive_JR369432",
    "/job/United-Kingdom---London/Technical-Architect-8_JR359492",
    "/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian--OPM-_JR365844",
    "/job/Virginia---Mclean/Sr-Director--Architect---Availability---Resiliency_JR368443-1",
@@ -3347,5 +3353,5 @@
   "thales service delivery manager gnss",
   "ubisoft campaign program manager f h nb"
  ],
- "last_linkedin": 1795512994.7566268
+ "last_linkedin": 1795516722.3641098
 }
