@@ -1555,7 +1555,9 @@
    "6242347004",
    "6247172004",
    "6253970004",
-   "6266492004"
+   "6263860004",
+   "6266492004",
+   "6269954004"
   ],
   "Ledger": [
    "1b09c6a3-98ce-4c45-8ae4-7fed697acf06",
@@ -2600,6 +2602,7 @@
    "/job/Getafe/XMLNAME--Discover-I-2027-2028-ARIANE-6-PRODUCTION-SUPPORT-INTERN_JR10456448",
    "/job/Getafe/XMLNAME--Discover-I-2027-2028-Configuration---Management-Systems-Support-Internship_JR10455324",
    "/job/Getafe/XMLNAME--Discover-I-2027-2028-Flight-line-support-A330-MRTT-Internship_JR10456433",
+   "/job/Getafe/XMLNAME--Discover-I-2027-2028-TECHNICAL-AREAS--PRODUCTION-SUPPORT-INTERN_JR10456505",
    "/job/Getafe/XMLNAME--MAIR-2026-2027---RFE-Architecture---Integration_JR10460065",
    "/job/Grand-Prairie-TX/Technical-Representative--Avionics---GOV--Remote_JR10457987",
    "/job/Hamburg---Finkenwerder/VIE---Junior-Business-Performance---Improvement-Manager---d-f-m-_JR10455812",
@@ -2798,6 +2801,7 @@
    "/job/Taipei/Medical-Lead--Rare-Blood-Disorders-Hong-Kong-and-Taiwan_R2859023",
    "/job/Taipei/Sales-Representative--Dupixent---_R2879367",
    "/job/Taipei/XMLNAME--Senior--Product-Manager--GenMed_R2878848",
+   "/job/Taipei/XMLNAME--Sr--Sales-Representative--Vaccine---_R2877776",
    "/job/Topeka-KS/Area-Business-Manager---Dermatology--Kansas_R2879619-1",
    "/job/Toronto-ON/Key-Account-Manager--Cardiovascular---Greater-Toronto-Area_R2879788",
    "/job/Toronto-ON/PSS-Data-and-Analytics-Lead_R2879284",
@@ -3314,5 +3318,5 @@
   "thales service delivery manager gnss",
   "ubisoft campaign program manager f h nb"
  ],
- "last_linkedin": 1795505794.2842515
+ "last_linkedin": 1795509394.894492
 }
