@@ -846,7 +846,9 @@
    "351268",
    "351280",
    "351289",
-   "351304"
+   "351304",
+   "351305",
+   "351307"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -2411,6 +2413,7 @@
    "8404144",
    "8404667",
    "8405596",
+   "8405746",
    "8405752",
    "8406140",
    "8406660",
@@ -2606,6 +2609,7 @@
    "/job/Bingen-WA/Composite-Technician-B_JR10456264",
    "/job/Bingen-WA/UAS-Mechanical-Technician-B_JR10456261",
    "/job/Blagnac---Wings-Campus/SAP-EWM-Warehouse-Transformation-Manager--f-m-_JR10459419",
+   "/job/Brasov-30-Hermann/Conditioner-finisor_JR10459997",
    "/job/Brasov-30-Hermann/Logistician-Iesire-Marfa_JR10460464",
    "/job/Brasov-30-Hermann/Practicant-Logistica_JR10460472",
    "/job/Bristol-Area/Filton-Plant-Production-Support-Placement--125-months-_JR10429924",
@@ -2674,6 +2678,7 @@
    "/job/Mirabel/Responsable-principal-de-programme--Intgration---Fuselage-Integration-Senior-Program-Manager---Fuselage_JR10459719",
    "/job/Mnchen-Area/Algorithms-and-Simulation-Development-Engineer--d-f-m-_JR10457357",
    "/job/Mnchen-Area/Network-Architect---Product-Manager-Network--m-f-d-_JR10451758-1",
+   "/job/Mobile-Area-AL/Aircraft-Quality-Inspector--Multiple-Shifts-_JR10413026",
    "/job/Mobile-Area-AL/Head-of-Conformity---Certifying-Staff--A320-_JR10450486",
    "/job/Mobile-Area-AL/Mechanical-Quality-Inspector-A220--2nd-Shift-_JR10454478",
    "/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
@@ -3050,6 +3055,7 @@
    "/job/Illinois---Chicago/Systems-Engineer--Marketing-Cloud-Engagement_JR362608",
    "/job/Illinois---Remote/Senior-Experience-Architect--Professional-Services-_JR361440-1",
    "/job/India---Bangalore/Account-Executive---Public-Sector_JR368339",
+   "/job/India---Bangalore/COMMISSION---Customer-Success-Manager--Senior-Manager_JR369043-1",
    "/job/India---Bangalore/LMTS---Lead-AI-ML-Engineer--LLM-Post-Training-_JR368314",
    "/job/India---Bangalore/Principal-Member-of-Technical-Staff--PMTS----Core-Metadata-Platform--Informatica-CDGC-_JR339999",
    "/job/India---Bangalore/Senior-Technical-Architect--Revenue-CPQ-_JR362399",
