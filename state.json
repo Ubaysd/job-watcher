@@ -2926,6 +2926,7 @@
    "/job/Barcelona/Lead-New-Product-Planning-Forecasting_R2871360",
    "/job/Barcelona/Market-Access---Health-Economics-Lead_R2879894",
    "/job/Barcelona/Regional-Access---Hospital-Manager_R2879888",
+   "/job/Beijing/M-S---IFB---MQC-Analyst-II_R2876541",
    "/job/Beijing/M-S---IFB---MQC-Analyst-II_R2876548",
    "/job/Beijing/M-S---IFB---MQC-Analyst-II_R2876557",
    "/job/Beijing/M-S-CC---MQC-Lead-IFB-Beijing_R2797502",
@@ -3283,6 +3284,7 @@
    "/job/India---Bangalore/Senior-Manager--Technical-Consulting_JR325976",
    "/job/India---Bangalore/Senior-Technical-Architect--Revenue-CPQ-_JR362399",
    "/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
+   "/job/India---Bangalore/Software-Engineering-LMTS--Database-Engineering-_JR368679-1",
    "/job/India---Bangalore/Software-Engineering-LMTS_JR338174",
    "/job/India---Bangalore/Strategic-Builder_JR362385-1",
    "/job/India---Bangalore/Technical-Architect---Health-or-Life-Sciences-Cloud_JR366955",
@@ -3563,7 +3565,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "ok",
+  "Societe Generale": "error",
   "Amundi": "ok"
  },
  "alerted": [
