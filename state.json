@@ -2737,7 +2737,8 @@
    "744000163252382",
    "744000163507459",
    "744000163507464",
-   "744000163644910"
+   "744000163644910",
+   "744000163647520"
   ],
   "Airbus": [
    "/job/Albacete/Manufacturing-Engineer_JR10460531",
@@ -3591,7 +3592,7 @@
   "Deezer": "error",
   "Sorare": "ok",
   "Stripe": "ok",
-  "Spotify": "error",
+  "Spotify": "ok",
   "Ubisoft": "ok",
   "Visa": "error",
   "Airbus": "ok",
