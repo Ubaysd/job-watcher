@@ -413,6 +413,7 @@
    "8351509",
    "8352757",
    "8354556",
+   "8356637",
    "8357178",
    "8359339",
    "8359575",
@@ -997,6 +998,7 @@
    "28c11491-699e-47b8-abd1-96e8b0210be4",
    "29117e59-4b3c-489a-8a28-c6c4d631b090",
    "29aacba8-5d1d-466e-a777-4b1e04ee3b1e",
+   "2afcdd9d-73bd-43f4-bf40-af2faf827751",
    "2e3c0519-ec72-4244-b34a-f4ec331867ba",
    "3633e5f1-73a2-40fb-af27-196ac1fbe66e",
    "40c2637e-815f-47bb-a547-7eed8bed7bc0",
@@ -2776,7 +2778,8 @@
    "744000163644910",
    "744000163647520",
    "744000163650839",
-   "744000163692852"
+   "744000163692852",
+   "744000163701719"
   ],
   "Airbus": [
    "/job/Albacete/Manufacturing-Engineer_JR10460531",
@@ -2873,6 +2876,7 @@
    "/job/Manching/Eurodrone-Overall-RPAS-Design-Chief-Engineer--d-f-m-_JR10425157",
    "/job/Manching/Product-Security-Architect--d-f-m-_JR10455977-1",
    "/job/Manching/Program-Quality-Manager-EF---ESCAN--d-f-m-_JR10452431",
+   "/job/Manching/Project-Manager-Electronic-Warfare-Ground-Systems--m-f-d-_JR10446119",
    "/job/Manching/Systems-Engineer-Ground-Mission-System--d-m-f-_JR10445213",
    "/job/Manching/Werkstudent--d-m-w--im-Bereich-Manufacturing-Engineering---Projektmanagement-und-Support_JR10455068-1",
    "/job/Marignane/Lead-SAP-Product-Manager---Industry-Domain--M-F-_JR10460027",
@@ -3055,6 +3059,7 @@
    "/job/Frankfurt-am-Main/Bench-Scientist---Mass-Spectrometry---VIE-Contract_R2878863",
    "/job/Frankfurt-am-Main/Leadership-Traineeprogramm-fr-Naturwissenschaftler--all-genders----befristet-fr-24-Monate_R2880207-1",
    "/job/Frankfurt-am-Main/Operator-1-Control--all-genders----befristet-bis-30112028_R2871671-1",
+   "/job/Geel/Contamination-Control-Engineer_R2880411-1",
    "/job/Geel/Head-of-Quality-Compliance-and-Regulatory_R2879552",
    "/job/Geel/Head-of-Quality-Systems_R2879562",
    "/job/Gent/Data-Visualization---Process-Tooling-Intern_R2880422",
@@ -3109,6 +3114,7 @@
    "/job/Reading/Senior-Regulatory-Affairs-Manager_R2876808",
    "/job/Restricted-Posting/Pre-Filled-Syringe-Process-Engineering-Intern_R2875164",
    "/job/Rockford-IL/Area-Business-Manager--Hematology-Oncology---Rockford--Illinois_R2873104-1",
+   "/job/San-Antonio-TX/Area-Business-Manager---Allergy-San-Antonio--TX_R2880254",
    "/job/Shanghai/M-S-Demand-Lead-Shanghai_R2876701-1",
    "/job/Shanghai/Senior-Brand-Manager_R2879363",
    "/job/Shanghai/Senior-Marketing-Manager_R2879303",
@@ -3805,5 +3811,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795614664.9561923
+ "last_linkedin": 1795618264.3036478
 }
