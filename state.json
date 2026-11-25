@@ -448,6 +448,7 @@
    "8403219",
    "8404061",
    "8405975",
+   "8411119",
    "8414413",
    "8416965"
   ],
@@ -3022,6 +3023,7 @@
    "/job/Toulouse-Area/Technical-Data-Business-Application-Owner--F-M-_JR10450468",
    "/job/Toulouse-Area/Technologue-d-assemblage-de-cartes-lectroniques_JR10436559",
    "/job/Toulouse-Area/Work-Package-Manager-for-Telecom-Ground-Systems---IRIS---M-F-_JR10447509",
+   "/job/Toulouse-Area/XMLNAME--SARU-Spcialiste-des-oprations-logistiques-automatises-FAL-JLL--H-F-_JR10442704-1",
    "/job/Varel-Area/Werkzeugvoreinsteller--m-w-d---KOVS31_JR10434202-1",
    "/job/Waterloo/Product-Support-Representative---AMER---Mission--INTERN_JR10453087",
    "/job/Wichita-KS/Structure-Repair-Support-Engineer_JR10458750"
@@ -3122,6 +3124,7 @@
    "/job/Lyon/Quality-Control-Product-Line-Manager_R2825933-1",
    "/job/Lyon/Software-Platform-Engineer_R2880389",
    "/job/Macon-GA/Area-Business-Manager---Allergy---Macon--GA_R2879494",
+   "/job/Marcy-lEtoile/Process-modeling--Protein-Antigen--Principal-Data-Scientist---CANOPY_R2873439",
    "/job/Marcy-lEtoile/Senior-Principal-Data-Scientist--Agentic-AI-Canopy_R2873424-1",
    "/job/Marcy-lEtoile/stage-6-mois-modlisation-des-procds-de-production-vaccins_R2873710",
    "/job/Marcy-lEtoile/stage-6-mois-production-ADN-plasmidique_R2879533",
@@ -3380,6 +3383,7 @@
    "/job/Brazil---Sao-Paulo/Customer-Success-Manager_JR368745",
    "/job/Brazil---Sao-Paulo/Sales-Director_JR368896",
    "/job/Brazil---Sao-Paulo/Senior-Manager--Sales---Middle-Market_JR368111",
+   "/job/California---Remote/Qualified-Commercial-Account-Executive_JR369615",
    "/job/California---San-Francisco/Applied-AI-Architect--Customer-Enablement---Strategic-Operations_JR369146",
    "/job/California---San-Francisco/Business-Development-Associate--Early-Career-_JR340479-1",
    "/job/California---San-Francisco/Director--Product-Marketing--Field-Service-Portfolio-_JR368454",
@@ -3421,6 +3425,7 @@
    "/job/Chile---Santiago/Customer-Success-Manager_JR368811",
    "/job/Colombia---Bogota/Lead-Solution-Engineer_JR368905",
    "/job/District-of-Columbia---Washington/Vice-President--Global-Public-Affairs_JR368920-1",
+   "/job/France---Paris/Account-Executive----Appromore_JR361692",
    "/job/France---Paris/Account-Executive----Regrello--Agentforce-Operations--_JR361691-1",
    "/job/France---Paris/Engagement-Delivery-Senior-Manager_JR353459-1",
    "/job/Georgia---Atlanta/Commercial-Account-Executive---Data-Foundation--MuleSoft---Informatica-_JR359224-1",
@@ -3735,7 +3740,7 @@
   "Contentsquare": "ok",
   "Algolia": "ok",
   "Criteo": "error",
-  "BlaBlaCar": "ok",
+  "BlaBlaCar": "error",
   "ManoMano": "error",
   "Swile": "ok",
   "Spendesk": "error",
@@ -3858,5 +3863,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795621865.0167255
+ "last_linkedin": 1795625464.6061032
 }
