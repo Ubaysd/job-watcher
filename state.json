@@ -715,6 +715,7 @@
    "335750",
    "337336",
    "337418",
+   "337422",
    "338136",
    "339929",
    "340270",
@@ -3209,6 +3210,7 @@
    "/job/Paris-France/Senior-Research-Analyst---Associate-Managing-Consultant_R-294231",
    "/job/Port-of-Spain-Trinidad-and-Tobago/Director--Account-Management_R-294921",
    "/job/Pune-India/Content-Strategy-Analyst-II_R-293582",
+   "/job/Pune-India/Lead-Product-Manger---Technical_R-292524",
    "/job/Pune-India/Lead-Software-Engineer---Java-Spring-Boot--Kafka-and-Event-Driven-Architecture_R-294147",
    "/job/Pune-India/Lead-Software-Engineer_R-291285",
    "/job/Pune-India/Lead-Software-Engineer_R-292040",
@@ -3516,6 +3518,7 @@
    "https://jobs.amundi.com/offre-de-emploi/emploi-stage-assistant-chef-de-projets-evenementiels-h-f_115292.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-stage-assistant-coordination-de-projets-marque-publicite-h-f-_113902.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-stage-assistant-e-responsable-grands-comptes-gestion-et-pilotage-des-operations-h-f_117478.aspx",
+   "https://jobs.amundi.com/offre-de-emploi/emploi-stage-assistant-gerant-chercheur-quantitatif-h-f_117792.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-stage-assistant-gerant-de-fonds-dette-privee-h-f_115644.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-stage-assistant-middle-office-gestion-sous-mandats-h-f_117683.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-stage-assistant-officer-delivery-operation-governance-h-f_117524.aspx",
@@ -3753,5 +3756,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795607323.139928
+ "last_linkedin": 1795610923.7068305
 }
