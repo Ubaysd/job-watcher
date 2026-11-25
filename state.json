@@ -1,6 +1,7 @@
 {
  "seen": {
   "LinkedIn": [
+   "4419697685",
    "4424231731",
    "4432677765",
    "4448765026",
@@ -768,6 +769,7 @@
    "348892",
    "348909",
    "349064",
+   "349130",
    "349137",
    "349180",
    "349183",
@@ -3163,6 +3165,7 @@
    "/job/Oslo-Norway/Manager--Finance-Business-Partner--Mastercard-Payment-Services-Norway_R-293532",
    "/job/Port-of-Spain-Trinidad-and-Tobago/Director--Account-Management_R-294921",
    "/job/Pune-India/Lead-Software-Engineer_R-294383",
+   "/job/Pune-India/Senior-Specialist--Implementation_R-293011-1",
    "/job/Pune-India/Senior-Technical-Program-Manager_R-294273-1",
    "/job/Purchase-New-York/Associate-Managing-Consultant--Technical-Program-Management_R-294091-1",
    "/job/Purchase-New-York/Customer-Success-Operations---Platform-and-Reporting_R-288817-1",
@@ -3297,6 +3300,7 @@
    "/job/Illinois---Chicago/Sr-Enterprise-Architect---Agentforce-for-Operations_JR365437",
    "/job/Illinois---Chicago/Systems-Engineer--Marketing-Cloud-Engagement_JR362608",
    "/job/Illinois---Remote/Senior-Experience-Architect--Professional-Services-_JR361440-1",
+   "/job/India---Bangalore---Remote/Customer-Success-Manager--Manager_JR363721",
    "/job/India---Bangalore/Account-Executive---Public-Sector_JR368339",
    "/job/India---Bangalore/COMMISSION---Customer-Success-Manager--Senior-Manager_JR369043-1",
    "/job/India---Bangalore/LMTS---Lead-AI-ML-Engineer--LLM-Post-Training-_JR368314",
@@ -3394,6 +3398,7 @@
    "/job/United-Kingdom---London/Customer-Success-Manager_JR367495",
    "/job/United-Kingdom---London/Field-marketing-senior-lead_JR363519",
    "/job/United-Kingdom---London/Principal-Success-Manager_JR368342",
+   "/job/United-Kingdom---London/Regulated-Content-Management--Practice-Director_JR369580-1",
    "/job/United-Kingdom---London/Slack---Enterprise-Cloud-Account-Executive_JR369432",
    "/job/United-Kingdom---London/Technical-Architect-8_JR359492",
    "/job/Virginia---Herndon/SRE-Systems-Engineer--TS-SCI-with-Polygraph-Clearance-_JR369375-1",
@@ -3604,6 +3609,7 @@
   "amundi chef de projet clients strategiques en actionnariat salarie h f",
   "amundi senior project manager m f",
   "assurances cheffe chef de produit f h assurances collectives",
+  "bpce chef de projet si h f securite financiere",
   "credit chef de projet business process management bpm h f",
   "credit cheffe chef de projet f h po digital epargne financiere",
   "datadog senior product manager application performance monitoring",
@@ -3683,5 +3689,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795596523.558795
+ "last_linkedin": 1795600123.3900428
 }
