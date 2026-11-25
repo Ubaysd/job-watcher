@@ -2734,6 +2734,7 @@
    "/job/Albacete/XMLNAME--DIGITALCAMPUS-Technical-Leader---Palantir-Foundry--M-F-_JR10456820",
    "/job/Bangalore-Area/Group-Manager--Software-Engineering-Manager-_JR10411083",
    "/job/Bangalore-Area/Lead-DevSecops-Engineer_JR10456875",
+   "/job/Bangalore-Area/Product-Manager---Cybersecurity-for-Affiliates-and-Roofs_JR10455326",
    "/job/Bangkok---Airbus-Flight-Ops-Services/Flight-Operations-Engineer---Performance_JR10460252",
    "/job/Bangkok-Area/Flight-Operations-Engineer_JR10460250",
    "/job/Bangkok-Area/Product-Support-Representative--Japanese-fluent-written-and-spoken--_JR10406271",
@@ -3144,6 +3145,7 @@
    "/job/OFallon-Missouri/Vice-President--Business-Operations_R-294535-1",
    "/job/Oslo-Norway/Manager--Finance-Business-Partner--Mastercard-Payment-Services-Norway_R-293532",
    "/job/Port-of-Spain-Trinidad-and-Tobago/Director--Account-Management_R-294921",
+   "/job/Pune-India/Lead-Software-Engineer_R-294383",
    "/job/Pune-India/Senior-Technical-Program-Manager_R-294273-1",
    "/job/Purchase-New-York/Associate-Managing-Consultant--Technical-Program-Management_R-294091-1",
    "/job/Purchase-New-York/Customer-Success-Operations---Platform-and-Reporting_R-288817-1",
@@ -3323,6 +3325,7 @@
    "/job/Ireland---Dublin/Customer-Success-Manager_JR367746",
    "/job/Ireland---Dublin/Software-Engineer---AI-Agent-Platform_JR368957",
    "/job/Italy---Milan/FDE-Voice---Italy_JR366178",
+   "/job/Japan---Tokyo/Operations-Manager_JR368726",
    "/job/Japan---Tokyo/Qualified-Success-Architect_JR368158",
    "/job/Mexico---Mexico-City/Customer-Success-Manager---Core_JR369193",
    "/job/Mexico---Mexico-City/Customer-Success-Manager---Markting-Cloud_JR368844",
@@ -3565,7 +3568,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "error",
+  "Societe Generale": "ok",
   "Amundi": "ok"
  },
  "alerted": [
