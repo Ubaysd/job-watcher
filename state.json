@@ -17,6 +17,7 @@
    "4486434580",
    "4487025955",
    "4487030562",
+   "4487266244",
    "4491565529",
    "4491572248",
    "4492638183",
@@ -38,6 +39,7 @@
    "4493416182",
    "4493433680",
    "4493436670",
+   "4493455225",
    "4493692751",
    "4493695753",
    "4493699075",
@@ -50,6 +52,7 @@
    "4494423807",
    "4494464343",
    "4494637034",
+   "4494681644",
    "4494697085",
    "4494744268",
    "4494757022",
@@ -3600,6 +3603,8 @@
    "/job/Virginia---Mclean/Analyst--Compliance---Public-Sector-Contracts_JR367975-1",
    "/job/Virginia---Mclean/Digital-Strategist---Content-Marketer---Missionforce_JR369567",
    "/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian--OPM-_JR365844",
+   "/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian--VA-_JR361793",
+   "/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian_JR361795-1",
    "/job/Virginia---Mclean/Principal-Security-Content-Strategist_JR368573",
    "/job/Virginia---Mclean/Senior-Program-Lead--Global-Security-Policy---Partnership_JR368576",
    "/job/Virginia---Mclean/Sr-Director--Architect---Availability---Resiliency_JR368443-1",
@@ -3818,6 +3823,7 @@
   "credit cheffe chef de projet f h po digital epargne financiere",
   "credit product owner ia pole compute & cloud experience h f",
   "credit product owner it salesforce h f bordeaux cdi",
+  "danone cdi chef de produit lait infantile nursie h f dec 2026",
   "datadog senior product manager application performance monitoring",
   "doctolib lead product manager patient data collection x f m",
   "doctolib technical product manager production data storage x f m",
@@ -3840,6 +3846,7 @@
   "gitlab staff product manager agentic planning",
   "gitlab staff product manager tenant scale",
   "groupama chef de projet h f",
+  "groupe chef de projet si f h",
   "ipsen data ai & platforms product manager",
   "l'oreal tech product owner data insights",
   "lcl product manager mouv h f",
@@ -3901,5 +3908,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795632791.4719818
+ "last_linkedin": 1795636391.9847462
 }
