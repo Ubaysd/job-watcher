@@ -1355,6 +1355,7 @@
    "5994506004",
    "6010723004",
    "6148066004",
+   "6193182004",
    "6228420004",
    "6236320004",
    "6237419004",
@@ -3137,6 +3138,7 @@
    "/job/London-England-Angel-Lane/Vice-President--Business-Development_R-294489-1",
    "/job/London-England-Angel-Lane/Vice-President--European-Cybersecurity-Engagement_R-281388-1",
    "/job/Madrid-Spain/Manager--Account-Management-and-Business-Development-B2B-Travel_R-294576",
+   "/job/Manila-Philippines-Transfast/Senior-Analyst--Corporate-Treasury_R-293147",
    "/job/Manila-Philippines/Associate-Managing-Consultant-Deploy_R-280663",
    "/job/Manila-Philippines/Managing-Consultant---Advisors---Consulting-Services--Deploy--Program-Management_R-281472",
    "/job/Mexico-City-Mexico/Creative-Video-and-Motion-Designer_R-294300",
@@ -3348,6 +3350,7 @@
    "/job/Mexico---Mexico-City/Customer-Success-Manager---Markting-Cloud_JR368844",
    "/job/Mexico---Mexico-City/Engagement-Delivery-Manager_JR366670",
    "/job/Mexico---Mexico-City/Prime-Territory-Account-Executive_JR367537",
+   "/job/Mexico---Mexico-City/Product-Enablement-Senior-Analyst_JR367469",
    "/job/Mexico---Mexico-City/Senior-Analyst--Revenue_JR366677",
    "/job/Mexico---Mexico-City/Senior-Instructor-Salesforce----Tableau_JR365621",
    "/job/Mexico---Mexico-City/Senior-Technical-Consultant_JR366662",
@@ -3587,7 +3590,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "ok",
+  "Societe Generale": "error",
   "Amundi": "ok"
  },
  "alerted": [
