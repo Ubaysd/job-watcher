@@ -24,6 +24,7 @@
    "4492674127",
    "4492676078",
    "4492909904",
+   "4493093181",
    "4493692751",
    "4493695753",
    "4493699075",
@@ -36,7 +37,8 @@
    "4494423807",
    "4494464343",
    "4494744268",
-   "4494757022"
+   "4494757022",
+   "4494771166"
   ],
   "Datadog": [
    "1497543",
@@ -3190,6 +3192,7 @@
    "/job/Australia---Canberra/Public-Sector-Account-Executive_JR369066-1",
    "/job/Australia---Melbourne/Public-Sector-Account-Executive---Health_JR368856",
    "/job/Australia---Melbourne/Senior-Lead-Full-Stack-Engineer---MeshMesh_JR366542",
+   "/job/Australia---Melbourne/Strategic-Account-Growth-Leader_JR369413",
    "/job/Australia---Perth/Public-Sector-Account-Executive---Western-Australia_JR369579",
    "/job/Australia---Sydney/Business-Development-Representative_JR264377",
    "/job/Belgium---Brussels/Forward-Deployed-Engineer_JR368808",
@@ -3561,6 +3564,7 @@
   "datadog senior product manager application performance monitoring",
   "doctolib lead product manager patient data collection x f m",
   "doctolib technical product manager production data storage x f m",
+  "ey consultant senior en transformation asset & wealth management & banque privee h f fy27",
   "free work chef de projet applicatif monaco",
   "free work chef de projet informatique technique informatique system owner cloud prive suse vmware freelance it freelance",
   "free work delivery manager chef de projet senior h f",
@@ -3633,5 +3637,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795578369.5550292
+ "last_linkedin": 1795581969.977098
 }
