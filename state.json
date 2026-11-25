@@ -26,6 +26,7 @@
    "4492676078",
    "4492909904",
    "4493081613",
+   "4493088767",
    "4493093181",
    "4493098045",
    "4493692751",
@@ -943,7 +944,10 @@
    "351367",
    "351375",
    "351422",
-   "351467"
+   "351467",
+   "351474",
+   "351475",
+   "351487"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -2875,6 +2879,7 @@
    "/job/Salaunes/RESPONSABLE--QUALITE-LIGNE_JR10458038",
    "/job/Sevilla---San-Pablo/Flight-Operations-Support-Specialist---LTA_JR10456147-1",
    "/job/Sevilla-Area/Production-Activity-Controller--Temp-Agency-_JR10460282",
+   "/job/Singapore-Area/Satair---Planning-Specialist_JR10451325",
    "/job/Stevenage/Electrical-Systems-Architect_JR10441935",
    "/job/Taufkirchen--Ottobrunn/AI-Foundations-Engineer--m-f-_JR10459549",
    "/job/Taufkirchen--Ottobrunn/Agentic-Engineering-Architect--m-f-_JR10459546",
@@ -3104,6 +3109,7 @@
    "/job/Guatemala/Account-Management-Manager_R-294556",
    "/job/Gurgaon-India/Manager--Product-Management---Resiliency-Operations--Stand-In---On-Demand-Decisioning-_R-289205",
    "/job/Gurgaon-India/Manager--Visual-Design_R-293140",
+   "/job/Gurgaon-India/Senior-Managing-Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-294510",
    "/job/Hanoi-Vietnam/Vice-President--Specialist-Sales--Digital-Payments_R-292775",
    "/job/Johannesburg-South-Africa/Director--Africa-Division-Lead---Security-Solutions_R-294320",
    "/job/Johannesburg-South-Africa/Director--Commercial---New-Payment-Flows-Services-Business-Development-Africa_R-293643",
@@ -3663,5 +3669,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795589169.457467
+ "last_linkedin": 1795592923.3819118
 }
