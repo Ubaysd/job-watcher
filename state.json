@@ -756,6 +756,7 @@
    "348280",
    "348299",
    "348300",
+   "348330",
    "348336",
    "348498",
    "348604",
@@ -3590,7 +3591,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "error",
+  "Societe Generale": "ok",
   "Amundi": "ok"
  },
  "alerted": [
