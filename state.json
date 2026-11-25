@@ -53,6 +53,7 @@
    "4494464343",
    "4494637034",
    "4494681644",
+   "4494684899",
    "4494697085",
    "4494744268",
    "4494757022",
@@ -459,7 +460,8 @@
    "8414502",
    "8416965",
    "8417250",
-   "8417469"
+   "8417469",
+   "8418089"
   ],
   "GitLab": [
    "8396674002",
@@ -3329,6 +3331,7 @@
    "/job/OFallon-Missouri/Manager--Legal-Compliance_R-291937",
    "/job/OFallon-Missouri/Manager--Product-Management_R-290818",
    "/job/OFallon-Missouri/Senior-Platform-Engineer_R-291795",
+   "/job/OFallon-Missouri/Senior-Software-Engineer_R-289666",
    "/job/OFallon-Missouri/Software-Engineer-II_R-292582-1",
    "/job/OFallon-Missouri/VP-Global-Enablement--Experience----Operations_R-291448-1",
    "/job/OFallon-Missouri/Vice-President--Business-Operations_R-294495-1",
@@ -3836,6 +3839,7 @@
   "amundi chef de projet clients strategiques en actionnariat salarie h f",
   "amundi senior project manager m f",
   "assurances cheffe chef de produit f h assurances collectives",
+  "bain director strategy & transformation etf",
   "bpce chef de projet si h f securite financiere",
   "credit chef de projet business process management bpm h f",
   "credit chef de projets moa product owner h f",
@@ -3927,5 +3931,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795639991.8657992
+ "last_linkedin": 1795643591.2782726
 }
