@@ -36,6 +36,8 @@
    "4493093181",
    "4493098045",
    "4493416182",
+   "4493433680",
+   "4493436670",
    "4493692751",
    "4493695753",
    "4493699075",
@@ -48,6 +50,7 @@
    "4494423807",
    "4494464343",
    "4494637034",
+   "4494697085",
    "4494744268",
    "4494757022",
    "4494771166"
@@ -2612,7 +2615,9 @@
    "8414351",
    "8414490",
    "8414532",
-   "8415333"
+   "8415333",
+   "8417785",
+   "8417797"
   ],
   "Spotify": [
    "01b41b49-7d43-4933-9ba7-06ebe0a2a749",
@@ -2948,6 +2953,7 @@
    "/job/Montreal-Area/Conseiller-principal-en-architecture-systme---Lead--Advisor-System-Architecture_JR10459422",
    "/job/Montreal-Area/Gestionnaire-de-projet--Process-Outils-Mthodes---Project-Manager--Process-Tools-Manufacturing-Eng_JR10458763",
    "/job/Montreal-Area/Inspecteur-lectrique_JR10440214",
+   "/job/Montreal-Area/Intgrateur-en-Arostructure---Airframe-Integration_JR10461314",
    "/job/Montreal-Area/Manager-Qualit-Oprations_JR10453479",
    "/job/Montreal-Area/Partenaire-d-affaires-Gestion-de-projet---Systmes---Project-Management-Business-Partner---Systems_JR10444933-1",
    "/job/Montreal-Area/Planificateur-Principal-des-Oprations---Master-Production-Scheduler_JR10459837",
@@ -3293,6 +3299,7 @@
    "/job/Mexico-City-Mexico/R-280486-Specialist--Contact-Center--Trilingual-_R-281200",
    "/job/Mexico-City-Mexico/Senior-Managing-Consultant--Advisors---Consulting-Services--AI-Strategy--Data-Governance---Data-Management--and-AI-Data-Solution-Architecture_R-292877",
    "/job/New-York-City-New-York/Director--Product-Sales_R-286353",
+   "/job/New-York-City-New-York/Director-Product-Management---Technical_R-291272",
    "/job/New-York-City-New-York/Regional-Director--Digital-Assets-Sales---Commercialization--North-America_R-293971",
    "/job/New-York-City-New-York/Regional-Manager--Digital-Assets-Sales---Commercialization--North-America_R-294343",
    "/job/OFallon-Missouri/Director--Software-Engineering_R-294386",
@@ -3363,6 +3370,7 @@
    "/job/Tokyo-Japan/Consultant--Advisors---Consulting-Services--Marketing_R-286286",
    "/job/Tokyo-Japan/Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-286372",
    "/job/Toronto-Canada/Account-Executive--Services-Business-Development---Canada_R-296057",
+   "/job/Toronto-Canada/Director--Customer-Performance--Brand_R-290880-1",
    "/job/Toronto-Canada/Director--Fraud-Attack-Response---Insights---Americas_R-293876",
    "/job/Toronto-Canada/Director--Pricing---Interchange_R-295349",
    "/job/Toronto-Canada/Director--Risk-Management_R-293898",
@@ -3748,7 +3756,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "error",
+  "LinkedIn": "ok",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -3800,8 +3808,10 @@
   "assurances cheffe chef de produit f h assurances collectives",
   "bpce chef de projet si h f securite financiere",
   "credit chef de projet business process management bpm h f",
+  "credit chef de projets moa product owner h f",
   "credit cheffe chef de projet f h po digital epargne financiere",
   "credit product owner ia pole compute & cloud experience h f",
+  "credit product owner it salesforce h f bordeaux cdi",
   "datadog senior product manager application performance monitoring",
   "doctolib lead product manager patient data collection x f m",
   "doctolib technical product manager production data storage x f m",
@@ -3875,6 +3885,7 @@
   "swile senior product manager",
   "thales engineering delivery manager cybersecurite f h",
   "thales ingenieur e product owner h f",
+  "thales product manager",
   "thales product owner cybersecurite experimente h f",
   "thales product owner ontologie f h",
   "thales service delivery manager gnss",
@@ -3884,5 +3895,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795629064.6004844
+ "last_linkedin": 1795632791.4719818
 }
