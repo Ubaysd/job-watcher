@@ -27,6 +27,7 @@
    "4487030562",
    "4487266244",
    "4487523631",
+   "4487756383",
    "4491565529",
    "4491572248",
    "4492638183",
@@ -3144,6 +3145,7 @@
    "/job/Saint-Nazaire-Area/Stage-2027----Ingnieur-Amlioration-Continue---Performance-Qualit--ALL-GENDER-_JR10446778",
    "/job/Salaunes/Acheteur-se--Commodit-Outillages---Support-Production--H-F-_JR10459803-1",
    "/job/Salaunes/RESPONSABLE--QUALITE-LIGNE_JR10458038",
+   "/job/Santiago-de-Quertaro-AH/Operador-de-Almacen-3_JR10461855",
    "/job/Santiago-de-Quertaro-AH/Quality-Inspector_JR10461380",
    "/job/Sevilla---San-Pablo/Flight-Operations-Support-Specialist---LTA_JR10456147-1",
    "/job/Sevilla---San-Pablo/TAOPLE-T-L-Engineering-and-Bids--Temp-Agency-_JR10460303",
@@ -4005,7 +4007,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "error",
+  "LinkedIn": "ok",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -4076,6 +4078,7 @@
   "doctolib lead product manager patient data collection x f m",
   "doctolib technical product manager production data storage x f m",
   "edf product owner iam h f",
+  "euronext product manager",
   "euronext product manager digital assets equities & trading",
   "eviden product manager h f eviden",
   "ey consultant senior en transformation asset & wealth management & banque privee h f fy27",
@@ -4163,5 +4166,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795717172.7050335
+ "last_linkedin": 1795720772.2165713
 }
