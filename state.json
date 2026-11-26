@@ -4002,7 +4002,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "ok",
+  "LinkedIn": "error",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -4160,5 +4160,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795713573.0114594
+ "last_linkedin": 1795717172.7050335
 }
