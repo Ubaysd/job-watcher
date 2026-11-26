@@ -1015,6 +1015,7 @@
    "351351",
    "351358",
    "351362",
+   "351363",
    "351364",
    "351367",
    "351368",
@@ -1056,6 +1057,7 @@
    "351599",
    "351648",
    "351650",
+   "351657",
    "351677",
    "351678",
    "351679",
@@ -3216,6 +3218,7 @@
    "/job/Budapest/Global-Translation-Manager_R2879630",
    "/job/Budapest/Regional-quality-documentation-manager_R2879631",
    "/job/Budapest/Sales-Order-Management-Senior-Analyst--French-Speaking-_R2879555",
+   "/job/Buenos-Aires/Medical-Science-Liaison_R2876011",
    "/job/Cairo/Customer-Experience-Partner_R2870428-1",
    "/job/Cairo/Liquids-Production-Pharmacist_R2858734",
    "/job/Cambridge-MA/Director--Patient-Support-Services--Hemophilia_R2879298-1",
@@ -3558,6 +3561,7 @@
    "/job/Warsaw-Poland/Manager--Acceptance-Key-Verticals-Enablement_R-290169-1",
    "/job/Warsaw-Poland/Sales-Manager--South---Eastern-Europe_R-294461",
    "/job/Warsaw-Poland/Senior-Research-Analyst---Associate-Managing-Consultant_R-292563",
+   "/job/Warsaw-Poland/Specialist-implementation_R-294129",
    "/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
    "/job/Waterloo-Belgium/Senior-Specialist--Pricing-Excellence-1_R-290218"
   ],
@@ -3748,6 +3752,7 @@
    "/job/New-York---New-York/Salesforce-Ventures-Principal_JR368972-1",
    "/job/New-York---New-York/Senior-Director--Strategy---Business-Operations_JR366841",
    "/job/New-Zealand---Auckland/Account-Executive_JR368741",
+   "/job/Peru---Remote/Customer-Success-Manager_JR368812",
    "/job/Poland---Warsaw/Deployment-Strategist---Polish-Speaking_JR355426",
    "/job/Saudi-Arabia---Riyadh/Account-Solution-Engineer_JR321493-1",
    "/job/Saudi-Arabia---Riyadh/Principal-Solution-Engineer_JR364784",
@@ -3994,7 +3999,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "error",
+  "Societe Generale": "ok",
   "Amundi": "ok"
  },
  "alerted": [
