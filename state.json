@@ -1050,7 +1050,9 @@
    "351678",
    "351679",
    "351685",
-   "351686"
+   "351686",
+   "351689",
+   "351691"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -3089,6 +3091,7 @@
    "/job/Sevilla---San-Pablo/Flight-Operations-Support-Specialist---LTA_JR10456147-1",
    "/job/Sevilla---San-Pablo/TAOPLE-T-L-Engineering-and-Bids--Temp-Agency-_JR10460303",
    "/job/Sevilla---Tablada/Supply-Chain-Officer---Temp-Agency-_JR10460980",
+   "/job/Sevilla-Area/A400M-QCM-and-CCMD-Manager---PreFAL-Tablada_JR10450780-1",
    "/job/Sevilla-Area/Customs-Specialist--Temp-Agency-_JR10460902",
    "/job/Sevilla-Area/Manufacturing-Engineering-FTC-A400M_JR10442459-1",
    "/job/Sevilla-Area/Production-Activity-Controller--Temp-Agency-_JR10460282",
@@ -3739,6 +3742,7 @@
    "/job/United-Kingdom---London/Customer-Success-Manager---FinTech-and-Health-Life-Sciences_JR360206",
    "/job/United-Kingdom---London/Customer-Success-Manager_JR367495",
    "/job/United-Kingdom---London/Field-marketing-senior-lead_JR363519",
+   "/job/United-Kingdom---London/Named-Account-Executive---Water---Utilities_JR360898",
    "/job/United-Kingdom---London/Principal-Success-Manager_JR368342",
    "/job/United-Kingdom---London/Regulated-Content-Management--Practice-Director_JR369580-1",
    "/job/United-Kingdom---London/Slack---Enterprise-Cloud-Account-Executive_JR369432",
@@ -3792,7 +3796,9 @@
    "https://jobs.amundi.com/offre-de-emploi/emploi-internship-client-service-distribution-support-6-months-h-f_117543.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-internship-compliance-spanish-bilingual-m-f_117583.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-internship-real-assets-analyst-6-months-h-f_117525.aspx",
+   "https://jobs.amundi.com/offre-de-emploi/emploi-middle-back-office-specialits-m-f_117821.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-priips-reporting-expertise-specialist-m-f_117550.aspx",
+   "https://jobs.amundi.com/offre-de-emploi/emploi-reporting-specialist-m-f_117822.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-sales-manager-third-parties-distribution-m-w-d_117768.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-senior-project-manager-m-f_99916.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-senior-software-architect-m-f-d-m-f_100828.aspx",
