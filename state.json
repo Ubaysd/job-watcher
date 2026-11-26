@@ -27,6 +27,7 @@
    "4487030562",
    "4487266244",
    "4487523631",
+   "4487711247",
    "4487756383",
    "4491565529",
    "4491572248",
@@ -82,6 +83,7 @@
    "4494994664",
    "4495025982",
    "4495036889",
+   "4495046796",
    "4495220193",
    "4495237305",
    "4495243241",
@@ -89,7 +91,8 @@
    "4495259293",
    "4495278928",
    "4495284357",
-   "4495553075"
+   "4495553075",
+   "4495553404"
   ],
   "Datadog": [
    "1497543",
@@ -488,6 +491,7 @@
    "8404061",
    "8405975",
    "8411119",
+   "8413335",
    "8414413",
    "8414434",
    "8414502",
@@ -759,7 +763,8 @@
    "8957093002",
    "8957097002",
    "8957104002",
-   "8959549002"
+   "8959549002",
+   "8961167002"
   ],
   "Oracle": [
    "313133",
@@ -3894,6 +3899,7 @@
    "https://jobs.amundi.com/offre-de-emploi/emploi-middle-back-office-specialits-m-f_117821.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-priips-reporting-expertise-specialist-m-f_117550.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-reporting-specialist-m-f_117822.aspx",
+   "https://jobs.amundi.com/offre-de-emploi/emploi-responsable-maintenance-applicative-transformation-h-f_116917.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-sales-manager-third-parties-distribution-m-w-d_117768.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-senior-project-manager-m-f_99916.aspx",
    "https://jobs.amundi.com/offre-de-emploi/emploi-senior-software-architect-m-f-d-m-f_100828.aspx",
@@ -4069,6 +4075,7 @@
   "airbus product owner responsable sous systeme sso m f",
   "airbus retrofit solution project manager f m",
   "amundi chef de projet clients strategiques en actionnariat salarie h f",
+  "amundi responsable maintenance applicative & transformation h f",
   "amundi senior project manager m f",
   "assurances cheffe chef de produit f h assurances collectives",
   "axa product owner",
@@ -4115,6 +4122,7 @@
   "inspection chef de projet moa credit bail mobilier h f",
   "ipsen data ai & platforms product manager",
   "l'oreal tech product owner data insights",
+  "la chef de projet moa comptable h f",
   "lcl product manager mouv h f",
   "ledger senior product manager earn",
   "ledger staff product manager ledger wallet contractor",
@@ -4177,5 +4185,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795731710.7632008
+ "last_linkedin": 1795735311.030228
 }
