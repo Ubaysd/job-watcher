@@ -43,9 +43,11 @@
    "4493467327",
    "4493467613",
    "4493475224",
+   "4493491682",
    "4493692751",
    "4493695753",
    "4493699075",
+   "4493801127",
    "4493917327",
    "4493987298",
    "4493994581",
@@ -63,9 +65,12 @@
    "4494771166",
    "4494958661",
    "4494985460",
+   "4494988496",
+   "4494994664",
    "4495220193",
    "4495237305",
    "4495243241",
+   "4495248033",
    "4495259293"
   ],
   "Datadog": [
@@ -3237,6 +3242,7 @@
    "/job/San-Antonio-TX/Area-Business-Manager---Allergy-San-Antonio--TX_R2880254",
    "/job/San-Antonio-TX/Field-Reimbursement-Manager--Dupixent---San-Antonio--TX_R2879131-1",
    "/job/Seattle-WA/US-Transplantation-Medical-Scientific-Liaison_R2878638-1",
+   "/job/Shanghai/Brand-Manager_R2880679",
    "/job/Shanghai/M-S-Demand-Lead-Shanghai_R2876701-1",
    "/job/Shanghai/Senior-Brand-Manager_R2879363",
    "/job/Shanghai/Senior-Marketing-Manager_R2879303",
@@ -3305,6 +3311,7 @@
    "/job/Besiktas-Istanbul-Turkey/Associate-Managing-Consultant--Advisors---Consulting-Services--Marketing-Services_R-290822-1",
    "/job/Besiktas-Istanbul-Turkey/Director--Account-Management_R-277139",
    "/job/Besiktas-Istanbul-Turkey/Director--Commercialization--Security-Solutions_R-295215",
+   "/job/Besiktas-Istanbul-Turkey/Manager--Product-Management_R-292672",
    "/job/Besiktas-Istanbul-Turkey/Managing-Consultant--Advisors---Consulting-Services--Deploy_R-295683",
    "/job/Besiktas-Istanbul-Turkey/Senior-Specialist--Customer-Success-Operations-and-Enablement_R-288499",
    "/job/Bogota-Colombia-Bancafe/Senior-Analyst--Financial-Planning---Analysis_R-293492-1",
@@ -3473,6 +3480,7 @@
    "/job/Australia---Perth/Public-Sector-Account-Executive---Western-Australia_JR369579",
    "/job/Australia---Sydney/Business-Development-Representative_JR264377",
    "/job/Australia---Sydney/SMB---Growth-Account-Executive_JR360034",
+   "/job/Australia---Sydney/Specialist-Solution-Engineer--Data---Analytics_JR366399",
    "/job/Belgium---Brussels/Forward-Deployed-Engineer_JR368808",
    "/job/Belgium---Brussels/Forward-Deployed-Engineer_JR369123",
    "/job/Brazil---Sao-Paulo/Agentforce-Sales-Specialist---CBU-Brazil_JR369295",
@@ -3889,6 +3897,7 @@
   "airbus ai product owner d f m",
   "airbus aircraft technical services product manager f h",
   "airbus data product owner maternity leave cover",
+  "airbus digitalcampus senior sap product manager production",
   "airbus lead sap product manager industry domain m f",
   "airbus network architect product manager network m f d",
   "airbus retrofit solution project manager f m",
@@ -3992,5 +4001,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795672668.3998818
+ "last_linkedin": 1795676268.703983
 }
