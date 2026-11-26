@@ -1,6 +1,7 @@
 {
  "seen": {
   "LinkedIn": [
+   "4384171137",
    "4405215185",
    "4419697685",
    "4424231731",
@@ -16,6 +17,7 @@
    "4479297073",
    "4480399949",
    "4483125324",
+   "4485558708",
    "4486375615",
    "4486434580",
    "4487025955",
@@ -2697,6 +2699,7 @@
    "8414490",
    "8414532",
    "8415333",
+   "8417067",
    "8417785",
    "8417797"
   ],
@@ -3037,6 +3040,7 @@
    "/job/Mirabel/Analyste-d-affaires---Logistique-SAP---Business-Analyst-for-SAP-Logistics_JR10454462",
    "/job/Mirabel/Chef-des-Systmes-de-la-Cabine---Manager--Cabin-Systems-Specialties_JR10458775",
    "/job/Mirabel/Leader-de-Projets--Industrialisation-FALs-A220---Project-Leader--A220-FALs-Industrialization_JR10461083",
+   "/job/Mirabel/Pilote-du-Train-de-livraison---Senior-Release-Train-Engineer--RTE-_JR10458777-1",
    "/job/Mirabel/Responsable-principal-de-programme--Intgration---Fuselage-Integration-Senior-Program-Manager---Fuselage_JR10459719",
    "/job/Mnchen-Area/AI-Product-Owner--d-f-m-_JR10434325",
    "/job/Mnchen-Area/Algorithms-and-Simulation-Development-Engineer--d-f-m-_JR10457357",
@@ -3388,6 +3392,7 @@
    "/job/Bogota-Colombia/Analyst--Analytics---Metrics_R-294242",
    "/job/Bogota-Colombia/Director--Subject-Matter-Expert---Authorizations---Fraud_R-294105",
    "/job/Bogota-Colombia/Manager--Product-Management_R-292705",
+   "/job/Bogota-Colombia/Manager--Technology--Controllership-Operations_R-294603",
    "/job/Bogota-Colombia/Senior-Specialist--Global-Product-Management_R-294712",
    "/job/Buenos-Aires-Argentina/Senior-Managing-Consultant--Services-Business-Development_R-294830",
    "/job/Caracas-Venezuela/Director-PMO-Market-Transformation_R-295969",
@@ -3991,6 +3996,7 @@
   "airbus digitalcampus senior sap product manager production",
   "airbus lead sap product manager industry domain m f",
   "airbus network architect product manager network m f d",
+  "airbus product owner responsable sous systeme sso m f",
   "airbus retrofit solution project manager f m",
   "amundi chef de projet clients strategiques en actionnariat salarie h f",
   "amundi senior project manager m f",
@@ -4096,5 +4102,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795698140.0794232
+ "last_linkedin": 1795701739.312738
 }
