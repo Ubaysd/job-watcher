@@ -4,12 +4,14 @@
    "4405215185",
    "4419697685",
    "4424231731",
+   "4431591583",
    "4432677765",
    "4448765026",
    "4450768585",
    "4458047757",
    "4465979945",
    "4470424564",
+   "4470975993",
    "4479002243",
    "4479297073",
    "4480399949",
@@ -74,6 +76,7 @@
    "4495243241",
    "4495248033",
    "4495259293",
+   "4495278928",
    "4495284357"
   ],
   "Datadog": [
@@ -2990,6 +2993,7 @@
    "/job/Kinston-NC/Quality-Operations-Manager_JR10460710",
    "/job/Kinston-NC/Tooling-First-Level-Manager_JR10459462",
    "/job/Kinston-NC/Value-Stream-Management--VSM----A350_JR10457973",
+   "/job/Krakow/Propulsion-System-Physical-integration-Engineer--f-m-_JR10461679-1",
    "/job/Lisbon-Airbus-Portugal/Data-Product-Owner---Maternity-Leave-Cover_JR10459615",
    "/job/Lisbon-Airbus-Portugal/Data-Scientist-AI_JR10460903",
    "/job/Lisbon-Airbus-Portugal/End-2-End-Operations-Quality-Assurance_JR10459442",
@@ -3065,6 +3069,8 @@
    "/job/Nantes-Area/STAGE-2027---Ingnieur-projets-en-support-production--ALL-GENDER-_JR10441176",
    "/job/Nordenham/Elektroniker---Mechatroniker-in-der-Instandhaltung--m-w-d-_JR10431521",
    "/job/Oxford/CAMO-Engineer_JR10459772",
+   "/job/Paris-Area/Airbus-Protect---Ingnieur-e--RAMS-Expriment-e---All-Gender-_JR10434595",
+   "/job/Paris-Area/Airbus-Protect---Ingnieur-e--Risques-Industriels-Senior--All-Gender-_JR10400390",
    "/job/Paris-Area/INGENIEUR-ELECTRONIQUE-PUISSANCE-ET-COMMANDE-DE-MECANISMES--H-F-_JR10451453-1",
    "/job/Paris-Area/Responsable--Appel-d-Offres-en-Soutien-Logistique-Intgr-Produit-Intgr_JR10448804",
    "/job/Paris-Area/STAGE-2027---Dploiement-et-intgration-de-la-solution-STYRIS-augments-par-l-IA--F-H-_JR10443910",
@@ -3078,6 +3084,7 @@
    "/job/Rochefort/Airbus-Atlantic---Ajusteur-Monteur-de-systmes-mcaniques---Cabin-Interior--All-Gender-_JR10323690-1",
    "/job/Rochefort/Airbus-Atlantic---Intgrateur-Systmes-lectriques---Cabin-Interior--All-Gender-_JR10323701-1",
    "/job/Rochefort/Airbus-Atlantic---Technicien-d-ordonnancement--All-Gender-_JR10434820",
+   "/job/Rochefort/STAGE-2027---Ingnieur-en-innovation-digitale--ALL-GENDER-_JR10438049",
    "/job/Saint-Nazaire-Area/STAGE-2027---Amlioration-de-la-Performance-Industrielle-A350--ALL-GENDER-_JR10441562",
    "/job/Saint-Nazaire-Area/STAGE-2027---Animateur-Qualit---Structure-A350--ALL-GENDER-_JR10446994",
    "/job/Saint-Nazaire-Area/STAGE-2027---Assistant-Chef-de-Projet-IA---Innovation-Qualit----ALL-GENDER-_JR10432177",
@@ -3984,6 +3991,7 @@
   "axa product owner",
   "bain director strategy & transformation etf",
   "bpce chef de projet si h f securite financiere",
+  "bpifrance product owner cash management",
   "credit chef de projet business process management bpm h f",
   "credit chef de projets moa product owner h f",
   "credit cheffe chef de projet f h po digital epargne financiere",
@@ -3996,6 +4004,7 @@
   "doctolib technical product manager production data storage x f m",
   "edf product owner iam h f",
   "euronext product manager digital assets equities & trading",
+  "eviden product manager h f eviden",
   "ey consultant senior en transformation asset & wealth management & banque privee h f fy27",
   "free work chef de projet applicatif monaco",
   "free work chef de projet informatique technique informatique system owner cloud prive suse vmware freelance it freelance",
@@ -4080,5 +4089,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795694539.3021207
+ "last_linkedin": 1795698140.0794232
 }
