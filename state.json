@@ -1363,6 +1363,7 @@
    "a67426c5-0d9b-4e44-8767-bd7c3e5da0c4",
    "a6d18fcf-0846-4657-a2cb-df95af9fc950",
    "a6ec4f08-780c-4515-b27c-c3181ad9f23b",
+   "a8c6599a-7aa7-4e0c-82e1-f8c410ff36f3",
    "a95b48e1-1b55-4975-ac42-17bb8cd00cdc",
    "aa1a1cac-6470-4334-99c8-3c95b37fad76",
    "aad09418-d23e-48e9-9abd-6f521bc4295e",
@@ -2989,6 +2990,7 @@
    "/job/Marseille-Area/Intgrateur-Equipement-Electrique---h-f-_JR10444888-1",
    "/job/Marseille-Area/Supply-Chain-Quality-Manager-Avionic-Equipment--H-F-_JR10431537-1",
    "/job/Marseille-Area/Transmission-System-Design-Responsible--f-m-_JR10448742",
+   "/job/Marseille-Area/XMLNAME--DIGITALCAMPUS-AI-Platform-Engineer-H-F_JR10448202-1",
    "/job/Marseille-Area/XMLNAME--ET22-Responsable-Conception-Systme-d-Armement--F-H-_JR10432645",
    "/job/Marseille-Area/XMLNAME--ET22R-Ingnieur-Systmes-pour-l-architecture-des-donnes-de-Maintenance--f-h-_JR10453938",
    "/job/Marseille-Area/XMLNAME--ET22R-Transmission-System-Design-Responsible--f-m-_JR10451132",
@@ -3071,6 +3073,7 @@
    "/job/Sevilla---San-Pablo/Flight-Operations-Support-Specialist---LTA_JR10456147-1",
    "/job/Sevilla---San-Pablo/TAOPLE-T-L-Engineering-and-Bids--Temp-Agency-_JR10460303",
    "/job/Sevilla---Tablada/Supply-Chain-Officer---Temp-Agency-_JR10460980",
+   "/job/Sevilla-Area/Customs-Specialist--Temp-Agency-_JR10460902",
    "/job/Sevilla-Area/Manufacturing-Engineering-FTC-A400M_JR10442459-1",
    "/job/Sevilla-Area/Production-Activity-Controller--Temp-Agency-_JR10460282",
    "/job/Sevilla-Area/Site-Security-for-San-Pablo-Site_JR10449756-1",
@@ -3629,6 +3632,7 @@
    "/job/India---Hyderabad/Senior-Technical-Consultant_JR362083",
    "/job/India---Hyderabad/Software-Engineering-MTS---Production-Support---AI-Automation_JR365887",
    "/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
+   "/job/India---Hyderabad/Software-Engineering-MTS_JR363690-1",
    "/job/India---Hyderabad/System-Analyst_JR367594",
    "/job/India---Hyderabad/Systems-Engineer----Workday-Platform_JR364391",
    "/job/India---Hyderabad/Systems-Engineer---Workday-HCM_JR364388",
@@ -4036,5 +4040,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795683469.0459356
+ "last_linkedin": 1795687068.754111
 }
