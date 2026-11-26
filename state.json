@@ -1045,7 +1045,12 @@
    "351598",
    "351599",
    "351648",
-   "351650"
+   "351650",
+   "351677",
+   "351678",
+   "351679",
+   "351685",
+   "351686"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -2872,7 +2877,9 @@
    "744000163647520",
    "744000163650839",
    "744000163692852",
-   "744000163701719"
+   "744000163701719",
+   "744000163854970",
+   "744000163855239"
   ],
   "Airbus": [
    "/job/Albacete/Manufacturing-Engineer_JR10460531",
@@ -3153,6 +3160,7 @@
    "/job/Barcelona/Lead-New-Product-Planning-Forecasting_R2871360",
    "/job/Barcelona/Market-Access---Health-Economics-Lead_R2879894",
    "/job/Barcelona/Regional-Access---Hospital-Manager_R2879888",
+   "/job/Barcelona/Sales-Representative_R2880228",
    "/job/Beijing/M-S---IFB---MQC-Analyst-II_R2876541",
    "/job/Beijing/M-S---IFB---MQC-Analyst-II_R2876548",
    "/job/Beijing/M-S---IFB---MQC-Analyst-II_R2876557",
