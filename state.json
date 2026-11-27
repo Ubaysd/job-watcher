@@ -3425,6 +3425,7 @@
    "/job/Budapest/Global-Translation-Manager_R2879630",
    "/job/Budapest/Regional-quality-documentation-manager_R2879631",
    "/job/Budapest/Sales-Order-Management-Senior-Analyst--French-Speaking-_R2879555",
+   "/job/Buenos-Aires/Customer-Experience-Specialist_R2880641",
    "/job/Buenos-Aires/Medical-Science-Liaison_R2876011",
    "/job/Cairo/Customer-Experience-Partner_R2870428-1",
    "/job/Cairo/Liquids-Production-Pharmacist_R2858734",
@@ -4266,7 +4267,7 @@
   "Doctolib": "ok",
   "Back Market": "ok",
   "Dataiku": "ok",
-  "Contentsquare": "error",
+  "Contentsquare": "ok",
   "Algolia": "ok",
   "Criteo": "error",
   "BlaBlaCar": "ok",
@@ -4293,7 +4294,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "error",
+  "Societe Generale": "ok",
   "Amundi": "ok"
  },
  "alerted": [
@@ -4431,5 +4432,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795811479.9343617
+ "last_linkedin": 1795815080.0858262
 }
