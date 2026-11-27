@@ -101,7 +101,8 @@
    "4495558630",
    "4495562576",
    "4495563618",
-   "4495575501"
+   "4495575501",
+   "4495590309"
   ],
   "Datadog": [
    "1497543",
@@ -3443,6 +3444,7 @@
    "/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2879216-1",
    "/job/Val-de-Reuil/stage-2-mois-conception-mcanique-3d_R2879751",
    "/job/Val-de-Reuil/stage-6-mois-assurance-qualit-systme-et-formation-qualit_R2873967",
+   "/job/Verna/Environment---Sustainability_R2875879",
    "/job/Verna/Quality-Assurance-Specialist_R2873747",
    "/job/Waltham-MA/Genomic-Medicine-Purification-Process-Development-Head_R2875193-1",
    "/job/Warsaw/CSE-MCO-Immuno-Brand-and-Content-Lead-Respiratory_R2874790",
@@ -3580,6 +3582,7 @@
    "/job/Pune-India/Principal-Software-Engineer_R-293737-1",
    "/job/Pune-India/Senior-Software-Engineer_R-290391",
    "/job/Pune-India/Senior-Software-Engineer_R-291731",
+   "/job/Pune-India/Senior-Software-Engineer_R-292939-1",
    "/job/Pune-India/Senior-Software-Engineer_R-294542",
    "/job/Pune-India/Senior-Specialist--HR-Services_R-286197",
    "/job/Pune-India/Senior-Specialist--Implementation_R-293011-1",
@@ -4098,7 +4101,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "error",
+  "Societe Generale": "ok",
   "Amundi": "ok"
  },
  "alerted": [
@@ -4230,5 +4233,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795760669.449499
+ "last_linkedin": 1795764398.1316545
 }
