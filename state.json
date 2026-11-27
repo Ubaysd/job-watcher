@@ -12,6 +12,7 @@
    "4450768585",
    "4458047757",
    "4465979945",
+   "4469334764",
    "4470424564",
    "4470975993",
    "4471123273",
@@ -1123,7 +1124,11 @@
    "351742",
    "351744",
    "351745",
-   "351746"
+   "351746",
+   "351754",
+   "351756",
+   "351758",
+   "351762"
   ],
   "Qonto": [
    "00916ad1-279a-4e73-bdfb-9013312f8ae6",
@@ -4158,7 +4163,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "error",
+  "LinkedIn": "ok",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -4330,5 +4335,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795786131.7234294
+ "last_linkedin": 1795789731.2075603
 }
