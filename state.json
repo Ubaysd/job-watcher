@@ -3200,6 +3200,7 @@
    "/job/Paris-Area/STAGE-2027-Dploiement-de-l-Intelligence-Artificielle-sur-un-site-de-production_JR10443609",
    "/job/Paris-Area/Stage-2027---Project-Management-for-SOC-services--All-Gender-_JR10449591",
    "/job/Paris-Area/Stage-2027---Stagiaire-en-Dveloppement-d-un-robot-de-test-pour-applications-smartphone-et-web--F-H-_JR10445365",
+   "/job/Paris-Area/XMLNAME--ET20A-Technicien-ne--Laboratoire-Matriaux--H-F-_JR10431877",
    "/job/Pasay-City/MRO-Manager_JR10453182",
    "/job/Pierrelatte/Dessinateur-Projeteur-Mcanique--F-H-_JR10461933",
    "/job/Pierrelatte/Technicien-Validation-Systme-et-Cyberscurit--F-H-_JR10461901",
@@ -4151,7 +4152,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "ok",
+  "LinkedIn": "error",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -4323,5 +4324,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795782397.3215992
+ "last_linkedin": 1795786131.7234294
 }
