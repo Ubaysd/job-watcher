@@ -62,6 +62,7 @@
    "4493801127",
    "4493806624",
    "4493835698",
+   "4493847854",
    "4493917327",
    "4493987298",
    "4493994581",
@@ -91,8 +92,11 @@
    "4495259293",
    "4495278928",
    "4495284357",
+   "4495537697",
    "4495553075",
-   "4495553404"
+   "4495553404",
+   "4495558630",
+   "4495562576"
   ],
   "Datadog": [
    "1497543",
@@ -4081,9 +4085,11 @@
   "assurances cheffe chef de produit f h assurances collectives",
   "axa product owner",
   "bain director strategy & transformation etf",
+  "bpce chef de projet organisation et transformation f h",
   "bpce chef de projet si h f securite financiere",
   "bpifrance product owner cash management",
   "credit chef de projet business process management bpm h f",
+  "credit chef de projet data ia h f",
   "credit chef de projets moa product owner h f",
   "credit cheffe chef de projet f h po digital epargne financiere",
   "credit product owner f h",
@@ -4182,9 +4188,11 @@
   "thales service delivery manager gnss",
   "totalenergies cdi product owner h f",
   "ubisoft campaign program manager f h nb",
+  "vinci chef de projet adoption m365 copilot f h",
+  "vinci chef de projet pmo strategique f h",
   "vinci product owner erp materiel et immobilier f h",
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795738911.049446
+ "last_linkedin": 1795742510.5194705
 }
