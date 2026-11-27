@@ -794,6 +794,7 @@
    "335077",
    "335750",
    "336144",
+   "337294",
    "337336",
    "337418",
    "337422",
@@ -4265,7 +4266,7 @@
   "Doctolib": "ok",
   "Back Market": "ok",
   "Dataiku": "ok",
-  "Contentsquare": "ok",
+  "Contentsquare": "error",
   "Algolia": "ok",
   "Criteo": "error",
   "BlaBlaCar": "ok",
@@ -4292,7 +4293,7 @@
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
   "BNP Paribas": "error",
-  "Societe Generale": "ok",
+  "Societe Generale": "error",
   "Amundi": "ok"
  },
  "alerted": [
