@@ -31,6 +31,7 @@
    "4487523631",
    "4487711247",
    "4487756383",
+   "4491432513",
    "4491565529",
    "4491572248",
    "4492638183",
@@ -106,7 +107,8 @@
    "4495562576",
    "4495563618",
    "4495575501",
-   "4495590309"
+   "4495590309",
+   "4495832523"
   ],
   "Datadog": [
    "1497543",
@@ -2837,7 +2839,8 @@
    "8417797",
    "8419418",
    "8421000",
-   "8421091"
+   "8421091",
+   "8421263"
   ],
   "Spotify": [
    "01b41b49-7d43-4933-9ba7-06ebe0a2a749",
@@ -4298,6 +4301,7 @@
   "bpce chef de projet si h f securite financiere",
   "bpifrance product owner cash management",
   "cgi consultant e experimente manager transformation agile energy & utilities f h",
+  "cgi product owner f h",
   "credit chef de projet business process management bpm h f",
   "credit chef de projet data ia h f",
   "credit chef de projet senior pole utilisateurs assurances h f",
@@ -4311,6 +4315,7 @@
   "danone cdi chef de produit lait infantile nursie h f dec 2026",
   "dassault pmo project manager it is f h",
   "datadog senior product manager application performance monitoring",
+  "decathlon senior product manager conception & design f m d",
   "doctolib lead product manager patient data collection x f m",
   "doctolib technical product manager production data storage x f m",
   "edf product owner iam h f",
@@ -4409,5 +4414,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795800531.259392
+ "last_linkedin": 1795804279.1628542
 }
