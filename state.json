@@ -1116,6 +1116,7 @@
    "351648",
    "351650",
    "351657",
+   "351664",
    "351677",
    "351678",
    "351679",
@@ -1125,6 +1126,8 @@
    "351687",
    "351689",
    "351691",
+   "351692",
+   "351693",
    "351704",
    "351705",
    "351709",
@@ -1156,8 +1159,10 @@
    "351754",
    "351756",
    "351758",
+   "351759",
    "351761",
    "351762",
+   "351763",
    "351764",
    "351765",
    "351766",
@@ -3578,6 +3583,7 @@
    "/job/Swiftwater-PA/Production-Technician_R2878882",
    "/job/Swiftwater-PA/Quality-Systems-Manager_R2877724-1",
    "/job/Swiftwater-PA/Quality-Systems-Manager_R2877726",
+   "/job/Swiftwater-PA/Senior-Production-Technician_R2878843-1",
    "/job/Swiftwater-PA/XMLNAME-2027-Summer-Co-Op-Bacterial-Process-Development-Swiftwater-PA_R2867258",
    "/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern---FFIP-Business-Systems-Swiftwater--PA--Frozen-_R2873094",
    "/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-CI-Inspection-Swiftwater-PA_R2866358",
@@ -4440,5 +4446,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795818679.6796806
+ "last_linkedin": 1795822439.7519362
 }
