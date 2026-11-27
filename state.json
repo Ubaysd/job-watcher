@@ -63,6 +63,8 @@
    "4493806624",
    "4493835698",
    "4493847854",
+   "4493862667",
+   "4493864642",
    "4493917327",
    "4493987298",
    "4493994581",
@@ -85,6 +87,7 @@
    "4495025982",
    "4495036889",
    "4495046796",
+   "4495058992",
    "4495220193",
    "4495237305",
    "4495243241",
@@ -97,7 +100,8 @@
    "4495553404",
    "4495558630",
    "4495562576",
-   "4495563618"
+   "4495563618",
+   "4495575501"
   ],
   "Datadog": [
    "1497543",
@@ -1079,6 +1083,7 @@
    "351593",
    "351594",
    "351596",
+   "351597",
    "351598",
    "351599",
    "351648",
@@ -4096,6 +4101,7 @@
   "bpce chef de projet organisation et transformation f h",
   "bpce chef de projet si h f securite financiere",
   "bpifrance product owner cash management",
+  "cgi consultant e experimente manager transformation agile energy & utilities f h",
   "credit chef de projet business process management bpm h f",
   "credit chef de projet data ia h f",
   "credit chef de projets moa product owner h f",
@@ -4118,9 +4124,11 @@
   "free work chef de projet informatique technique informatique system owner cloud prive suse vmware freelance it freelance",
   "free work chef de projet product owner services connectes",
   "free work chef de projet spiritueux h f",
+  "free work chef de projet technique electronique h f",
   "free work delivery manager chef de projet senior h f",
   "free work product manager chef de projet digital omnicanal h f",
   "free work product manager h f orleans",
+  "free work product owner data h f",
   "gitlab ai transformation owner cro",
   "gitlab manager sox pmo business process",
   "gitlab principal technical program manager",
@@ -4202,5 +4210,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795753469.9658513
+ "last_linkedin": 1795757069.382942
 }
