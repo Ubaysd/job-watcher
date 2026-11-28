@@ -4315,10 +4315,10 @@
   "Spotify": "ok",
   "Ubisoft": "ok",
   "Visa": "error",
-  "Airbus": "error",
+  "Airbus": "ok",
   "Thales": "error",
-  "Sanofi": "error",
-  "Mastercard": "error",
+  "Sanofi": "ok",
+  "Mastercard": "ok",
   "Salesforce": "ok",
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
@@ -4467,5 +4467,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795851367.8365872
+ "last_linkedin": 1795854967.3805704
 }
