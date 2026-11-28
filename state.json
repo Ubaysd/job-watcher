@@ -78,6 +78,9 @@
    "4494036025",
    "4494197744",
    "4494206882",
+   "4494213826",
+   "4494226229",
+   "4494230238",
    "4494423807",
    "4494464343",
    "4494637034",
@@ -110,7 +113,8 @@
    "4495563618",
    "4495575501",
    "4495590309",
-   "4495832523"
+   "4495832523",
+   "4495879747"
   ],
   "Datadog": [
    "1497543",
@@ -4271,7 +4275,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "error",
+  "LinkedIn": "ok",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -4318,6 +4322,7 @@
   "airbus data product owner maternity leave cover",
   "airbus digital product manager for airbus training centers",
   "airbus digitalcampus senior sap product manager production",
+  "airbus it product manager quality applications & portfolio h f",
   "airbus lead sap product manager industry domain m f",
   "airbus network architect product manager network m f d",
   "airbus product owner responsable sous systeme sso m f",
@@ -4347,6 +4352,7 @@
   "danone cdi chef de produit lait infantile nursie h f dec 2026",
   "dassault pmo project manager it is f h",
   "datadog senior product manager application performance monitoring",
+  "decathlon chef de projet lille permanent cdi",
   "decathlon senior product manager conception & design f m d",
   "doctolib lead product manager patient data collection x f m",
   "doctolib technical product manager production data storage x f m",
@@ -4356,6 +4362,7 @@
   "eviden product manager h f eviden",
   "ey consultant senior en transformation asset & wealth management & banque privee h f fy27",
   "free work chef de projet applicatif monaco",
+  "free work chef de projet applicatif sage x3 h f paris",
   "free work chef de projet informatique technique informatique system owner cloud prive suse vmware freelance it freelance",
   "free work chef de projet product owner services connectes",
   "free work chef de projet spiritueux h f",
@@ -4446,5 +4453,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795822439.7519362
+ "last_linkedin": 1795826039.1468792
 }
