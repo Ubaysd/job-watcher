@@ -523,7 +523,8 @@
    "8416965",
    "8417250",
    "8417469",
-   "8418089"
+   "8418089",
+   "8421876"
   ],
   "GitLab": [
    "8396674002",
@@ -4291,14 +4292,14 @@
   "Criteo": "error",
   "BlaBlaCar": "ok",
   "ManoMano": "error",
-  "Swile": "error",
+  "Swile": "ok",
   "Spendesk": "error",
   "Pennylane": "ok",
   "PayFit": "error",
   "Mirakl": "ok",
   "Ledger": "ok",
   "Aircall": "error",
-  "Agicap": "error",
+  "Agicap": "ok",
   "Deezer": "error",
   "Sorare": "ok",
   "Stripe": "ok",
