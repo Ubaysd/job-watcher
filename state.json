@@ -95,6 +95,8 @@
    "4494230238",
    "4494239385",
    "4494239542",
+   "4494257377",
+   "4494264182",
    "4494423807",
    "4494464343",
    "4494637034",
@@ -130,7 +132,8 @@
    "4495832523",
    "4495879747",
    "4496002322",
-   "4496023261"
+   "4496023261",
+   "4496040455"
   ],
   "Datadog": [
    "1497543",
@@ -4298,7 +4301,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "error",
+  "LinkedIn": "ok",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -4308,7 +4311,7 @@
   "Doctolib": "ok",
   "Back Market": "ok",
   "Dataiku": "ok",
-  "Contentsquare": "error",
+  "Contentsquare": "ok",
   "Algolia": "ok",
   "Criteo": "error",
   "BlaBlaCar": "ok",
@@ -4400,6 +4403,7 @@
   "free work product owner data h f",
   "free work product owner ia h f",
   "free work product owner product manager informatique tech cloud & container it freelance",
+  "free work sap s 4hana solution owner project manager informatique lob sales toulouse it freelance",
   "gitlab ai transformation owner cro",
   "gitlab manager sox pmo business process",
   "gitlab principal technical program manager",
@@ -4477,6 +4481,7 @@
   "thales product owner risks and opportunities management et schedule risks analysis sra f h",
   "thales project manager systeme et sol h f",
   "thales service delivery manager gnss",
+  "thales silicon program manager f h",
   "thales technical product owner f h",
   "totalenergies cdi product owner h f",
   "ubisoft campaign program manager f h nb",
@@ -4487,5 +4492,5 @@
   "wivoo senior product owner data & digital",
   "worldline head of process transformation & customer excellence"
  ],
- "last_linkedin": 1795887625.5326169
+ "last_linkedin": 1795891225.268504
 }
