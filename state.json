@@ -5,6 +5,7 @@
    "4405215185",
    "4419697685",
    "4424231731",
+   "4426342008",
    "4431591583",
    "4432677765",
    "4440469037",
@@ -26,6 +27,7 @@
    "4483125324",
    "4485558708",
    "4485572157",
+   "4486252464",
    "4486375615",
    "4486434580",
    "4487025955",
@@ -4290,7 +4292,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "error",
+  "LinkedIn": "ok",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -4352,6 +4354,7 @@
   "bpce chef de projet organisation et transformation f h",
   "bpce chef de projet si h f securite financiere",
   "bpifrance product owner cash management",
+  "bpifrance product owner digibot f h",
   "cgi consultant e experimente manager transformation agile energy & utilities f h",
   "cgi product owner f h",
   "credit chef de projet business process management bpm h f",
@@ -4474,5 +4477,5 @@
   "wivoo senior product owner data & digital",
   "worldline head of process transformation & customer excellence"
  ],
- "last_linkedin": 1795862297.661961
+ "last_linkedin": 1795865897.8219225
 }
