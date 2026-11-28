@@ -81,8 +81,10 @@
    "4494213826",
    "4494226229",
    "4494227744",
+   "4494229884",
    "4494230238",
    "4494239385",
+   "4494239542",
    "4494423807",
    "4494464343",
    "4494637034",
@@ -117,7 +119,8 @@
    "4495590309",
    "4495832523",
    "4495879747",
-   "4496002322"
+   "4496002322",
+   "4496023261"
   ],
   "Datadog": [
    "1497543",
@@ -4327,6 +4330,7 @@
   "air product owner & data analyst bi h f",
   "airbus ai product owner d f m",
   "airbus aircraft technical services product manager f h",
+  "airbus chef de projet futures capabilites uas f h",
   "airbus data product owner maternity leave cover",
   "airbus digital product manager for airbus training centers",
   "airbus digitalcampus senior sap product manager production",
@@ -4463,5 +4467,5 @@
   "wivoo senior ai product manager agentic & ml",
   "wivoo senior product owner data & digital"
  ],
- "last_linkedin": 1795847767.4213393
+ "last_linkedin": 1795851367.8365872
 }
