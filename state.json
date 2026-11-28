@@ -4290,7 +4290,7 @@
   ]
  },
  "status": {
-  "LinkedIn": "ok",
+  "LinkedIn": "error",
   "Datadog": "ok",
   "GitLab": "ok",
   "Oracle": "ok",
@@ -4474,5 +4474,5 @@
   "wivoo senior product owner data & digital",
   "worldline head of process transformation & customer excellence"
  ],
- "last_linkedin": 1795858567.2268374
+ "last_linkedin": 1795862297.661961
 }
