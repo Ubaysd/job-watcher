@@ -4322,7 +4322,7 @@
   "Airbus": "ok",
   "Thales": "error",
   "Sanofi": "ok",
-  "Mastercard": "ok",
+  "Mastercard": "error",
   "Salesforce": "ok",
   "AXA": "error",
   "Allianz (dont Allianz Partners, Trade, Direct)": "error",
